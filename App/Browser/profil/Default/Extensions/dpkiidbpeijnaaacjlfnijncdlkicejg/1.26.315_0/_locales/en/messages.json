@@ -1,0 +1,2302 @@
+{
+   "mm_ServerDown": {
+      "description": "no description",
+      "message": "Oops! Something went wrong. Sorry about that. Please try again later, or contact our support team at support@getabine.com."
+   },
+   "mm_ServerError": {
+      "description": "no description",
+      "message": "Oops! An unknown error occurred - are you connected to the internet? Please try again later, or contact our support team at support@getabine.com."
+   },
+   "mm_account_addFields": {
+      "description": "no description",
+      "message": "You can optionally add:"
+   },
+   "mm_account_cancel": {
+      "description": "no description",
+      "message": "Cancel"
+   },
+   "mm_account_editField": {
+      "description": "no description",
+      "message": "Edit"
+   },
+   "mm_account_emailIsMasked": {
+      "description": "no description",
+      "message": "Your email is masked from this website. Emails they send to you will forward to your real address."
+   },
+   "mm_account_hideMe": {
+      "description": "no description",
+      "message": "Hide me"
+   },
+   "mm_account_hideSite": {
+      "description": "no description",
+      "message": "Have MaskMe permanently ignore $1"
+   },
+   "mm_account_lastUpdated": {
+      "description": "no description",
+      "message": "Last Updated:"
+   },
+   "mm_account_maskedAccount": {
+      "description": "no description",
+      "message": "Masked Account"
+   },
+   "mm_account_maskedAccounts": {
+      "description": "no description",
+      "message": "Masked Accounts"
+   },
+   "mm_account_maskedEmail": {
+      "description": "no description",
+      "message": "Masked Email:"
+   },
+   "mm_account_maskedPhone": {
+      "description": "no description",
+      "message": "Masked Phone:"
+   },
+   "mm_account_noLongerCallingYou": {
+      "description": "no description",
+      "message": "You are no longer receiving forwarded phone calls from this number."
+   },
+   "mm_account_noLongerEmailYou": {
+      "description": "no description",
+      "message": "This website can no longer email you. They do not know your real email address."
+   },
+   "mm_account_numberIsForwarding": {
+      "description": "no description",
+      "message": "This number is forwarding to your phone."
+   },
+   "mm_account_removeAccount": {
+      "description": "no description",
+      "message": "Delete this account"
+   },
+   "mm_account_removeSite": {
+      "description": "no description",
+      "message": "Delete my $1 accounts from MaskMe"
+   },
+   "mm_account_resumeForwarding": {
+      "description": "no description",
+      "message": "Resume forwarding"
+   },
+   "mm_account_save": {
+      "description": "no description",
+      "message": "Save"
+   },
+   "mm_account_showMe": {
+      "description": "no description",
+      "message": "Show me"
+   },
+   "mm_account_stopForwarding": {
+      "description": "no description",
+      "message": "Stop forwarding"
+   },
+   "mm_account_uhoh": {
+      "description": "no description",
+      "message": ":( Uh Oh!"
+   },
+   "mm_account_unmaskedAccount": {
+      "description": "no description",
+      "message": "Unmasked Account"
+   },
+   "mm_account_unmaskedAccounts": {
+      "description": "no description",
+      "message": "Unmasked Accounts"
+   },
+   "mm_account_what": {
+      "description": "no description",
+      "message": "What Happened?"
+   },
+   "mm_blacklist_add": {
+      "description": "no description",
+      "message": "Add"
+   },
+   "mm_blacklist_anyWebsites": {
+      "description": "no description",
+      "message": "Are there any websites you don't want MaskMe to store information for? Add them to this list."
+   },
+   "mm_blacklist_clear": {
+      "description": "no description",
+      "message": "Clear"
+   },
+   "mm_blacklist_clearAll": {
+      "description": "no description",
+      "message": "Clear all sites from this list"
+   },
+   "mm_blacklist_dontIgnore": {
+      "description": "no description",
+      "message": "Don't ignore this site"
+   },
+   "mm_blacklist_emptyIgnoreList": {
+      "description": "no description",
+      "message": "You have not added any sites to the ignore list yet."
+   },
+   "mm_blacklist_errorIgnoreAdd": {
+      "description": "no description",
+      "message": "Please enter a valid website URL (such as www.chase.com)."
+   },
+   "mm_blacklist_ignoreAccounts": {
+      "description": "no description",
+      "message": "Ignore accounts on these sites"
+   },
+   "mm_blacklist_ignoreSite": {
+      "description": "no description",
+      "message": "Ignore this site:"
+   },
+   "mm_blacklist_nevermind": {
+      "description": "no description",
+      "message": "Nevermind"
+   },
+   "mm_duckbone_default_form_error": {
+      "description": "no description",
+      "message": "Please fix the errors below"
+   },
+   "mm_duckbone_default_form_submit_text": {
+      "description": "no description",
+      "message": "Save"
+   },
+   "mm_edit_phone_AlreadyValidated": {
+      "description": "no description",
+      "message": "This number is already validated on our servers.  If you own this phone number please call our automated toll free number to reset it at (888) 932-8265."
+   },
+   "mm_edit_phone_NoPhonesError": {
+      "description": "no description",
+      "message": "Sorry but we experienced an error issuing a phone number.  Please try again in a little bit."
+   },
+   "mm_edit_phone_PhoneNotFound": {
+      "description": "no description",
+      "message": "Sorry but something went wrong. Please restart the phone setup process."
+   },
+   "mm_edit_phone_ResendCode": {
+      "description": "no description",
+      "message": "The verification code will be sent to"
+   },
+   "mm_edit_phone_ServerError": {
+      "description": "no description",
+      "message": "Sorry but something is not quite right.  Please try again in a little bit."
+   },
+   "mm_edit_phone_ValidUSNumber": {
+      "description": "no description",
+      "message": "Please enter a valid 10-digit US phone number."
+   },
+   "mm_edit_phone_VerificationCode": {
+      "description": "no description",
+      "message": "The verification code you entered was incorrect."
+   },
+   "mm_edit_user_allSet": {
+      "description": "no description",
+      "message": "You're all set!"
+   },
+   "mm_edit_user_back": {
+      "description": "no description",
+      "message": "Back"
+   },
+   "mm_edit_user_callMe": {
+      "description": "no description",
+      "message": "Call Me"
+   },
+   "mm_edit_user_callsWillForward": {
+      "description": "no description",
+      "message": "Calls will forward to your phone:"
+   },
+   "mm_edit_user_cancel": {
+      "description": "no description",
+      "message": "Cancel"
+   },
+   "mm_edit_user_changeEmail": {
+      "description": "no description",
+      "message": "Change Email"
+   },
+   "mm_edit_user_changeInfo": {
+      "description": "no description",
+      "message": "Change Your Info"
+   },
+   "mm_edit_user_changePassword": {
+      "description": "no description",
+      "message": "Change Password"
+   },
+   "mm_edit_user_confirmNewPassword": {
+      "description": "no description",
+      "message": "Confirm New Password:"
+   },
+   "mm_edit_user_currentPassword": {
+      "description": "no description",
+      "message": "Current Password:"
+   },
+   "mm_edit_user_emailAddress": {
+      "description": "no description",
+      "message": "Email Address"
+   },
+   "mm_edit_user_enterPhone": {
+      "description": "no description",
+      "message": "Enter your phone number (Must be based in the USA at this time)"
+   },
+   "mm_edit_user_enterVerification": {
+      "description": "no description",
+      "message": "Enter verification code"
+   },
+   "mm_edit_user_error": {
+      "description": "no description",
+      "message": "Uh oh! Something doesn't add up. Please fix the errors below."
+   },
+   "mm_edit_user_goForIt": {
+      "description": "no description",
+      "message": "Go for it."
+   },
+   "mm_edit_user_keepTwoThings": {
+      "description": "no description",
+      "message": "Just keep two things in mind:"
+   },
+   "mm_edit_user_maskedPhoneSetup": {
+      "description": "no description",
+      "message": "Masked Phone Setup"
+   },
+   "mm_edit_user_newEmail": {
+      "description": "no description",
+      "message": "New Email:"
+   },
+   "mm_edit_user_newMaskedPhone": {
+      "description": "no description",
+      "message": "Your new Masked Phone Number is:"
+   },
+   "mm_edit_user_newPassword": {
+      "description": "no description",
+      "message": "New Password:"
+   },
+   "mm_edit_user_next": {
+      "description": "no description",
+      "message": "Next"
+   },
+   "mm_edit_user_password": {
+      "description": "no description",
+      "message": "Password"
+   },
+   "mm_edit_user_passwordColon": {
+      "description": "no description",
+      "message": "Password:"
+   },
+   "mm_edit_user_passwordHint": {
+      "description": "no description",
+      "message": "Password Hint:"
+   },
+   "mm_edit_user_resend": {
+      "description": "no description",
+      "message": "Resend Code"
+   },
+   "mm_edit_user_save": {
+      "description": "no description",
+      "message": "Save"
+   },
+   "mm_edit_user_selectVerification": {
+      "description": "no description",
+      "message": "How should we send you a verification code?"
+   },
+   "mm_edit_user_textMe": {
+      "description": "no description",
+      "message": "Text Me"
+   },
+   "mm_edit_user_thingOne": {
+      "description": "no description",
+      "message": "New Masked Emails you create will forward to your new email address."
+   },
+   "mm_edit_user_thingTwo": {
+      "description": "no description",
+      "message": "Your old Masked Emails will also forward to your new email address."
+   },
+   "mm_edit_user_verify": {
+      "description": "no description",
+      "message": "Verify"
+   },
+   "mm_edit_user_wantToChangeEmail": {
+      "description": "no description",
+      "message": "Want to change your email?"
+   },
+   "mm_edit_user_wantToChangePassword": {
+      "description": "no description",
+      "message": "Want to change your password?"
+   },
+   "mm_email_disabled_change": {
+      "description": "no description",
+      "message": "Change Email Address"
+   },
+   "mm_email_disabled_error": {
+      "description": "no description",
+      "message": "Masked Emails have been disabled for your account."
+   },
+   "mm_email_disabled_faq_details": {
+      "description": "no description",
+      "message": "Masked Emails are real email addresses that are automatically set up to forward to your personal email address.  This means you can still receive emails from the website you give your Masked Email to, but they won't know your actual address.  If you ever want to stop receiving emails from that website, MaskMe lets you block a specific MaskedEmail at the click of a button."
+   },
+   "mm_email_disabled_faq_readmore": {
+      "description": "no description",
+      "message": "Read more about this here."
+   },
+   "mm_email_disabled_faq_title": {
+      "description": "no description",
+      "message": "FAQ: Why do you need my real email?"
+   },
+   "mm_email_disabled_flagged": {
+      "description": "no description",
+      "message": "Our system has flagged $1 as an invalid email address."
+   },
+   "mm_email_disabled_info": {
+      "description": "no description",
+      "message": "A valid email address is required to use MaskMe's Masked Emails.  Please change your address to continue using Masked Emails."
+   },
+   "mm_email_disabled_support": {
+      "description": "no description",
+      "message": "If your email address is correct and we have done this in error, please contact our support team at support@getabine.com."
+   },
+   "mm_email_helper_accountDisabled": {
+      "description": "no description",
+      "message": "Uh oh! Masked Emails have been disabled for your account."
+   },
+   "mm_email_helper_accountEnableLink": {
+      "description": "no description",
+      "message": "Re-enable Masked Emails"
+   },
+   "mm_email_helper_created": {
+      "description": "no description",
+      "message": "created"
+   },
+   "mm_email_helper_createsNewMask": {
+      "description": "no description",
+      "message": "creates new mask"
+   },
+   "mm_email_helper_discloseEmail": {
+      "description": "no description",
+      "message": "Use My Email"
+   },
+   "mm_email_helper_maskMyEmail": {
+      "description": "no description",
+      "message": "Mask My Email"
+   },
+   "mm_email_helper_or": {
+      "description": "no description",
+      "message": "OR"
+   },
+   "mm_email_helper_serverIsDown": {
+      "description": "no description",
+      "message": "Oops! Error creating email."
+   },
+   "mm_email_helper_tryAgainLater": {
+      "description": "no description",
+      "message": "click to report error"
+   },
+   "mm_email_helper_use": {
+      "description": "no description",
+      "message": "Use"
+   },
+   "mm_emails_blockedNow": {
+      "description": "no description",
+      "message": "Blocked now"
+   },
+   "mm_emails_createShielded": {
+      "description": "no description",
+      "message": "Create a Masked Email"
+   },
+   "mm_emails_editEmail": {
+      "description": "no description",
+      "message": "Edit?"
+   },
+   "mm_emails_email": {
+      "description": "no description",
+      "message": "Email"
+   },
+   "mm_emails_forwardingNow": {
+      "description": "no description",
+      "message": "Forwarding now"
+   },
+   "mm_emails_generateNew": {
+      "description": "no description",
+      "message": "Generate new masked email"
+   },
+   "mm_emails_noEmailSetup": {
+      "description": "no description",
+      "message": "You have no email setup yet."
+   },
+   "mm_emails_notVerified": {
+      "description": "no description",
+      "message": "Not Verified"
+   },
+   "mm_emails_resendVerification": {
+      "description": "no description",
+      "message": "Resend verification email?"
+   },
+   "mm_emails_shieldEmail": {
+      "description": "no description",
+      "message": "Mask Email"
+   },
+   "mm_emails_verified": {
+      "description": "no description",
+      "message": "Verified"
+   },
+   "mm_emails_youAreShielding": {
+      "description": "no description",
+      "message": "You are masking:"
+   },
+   "mm_errorReport_banned_user": {
+      "description": "no description",
+      "message": "I was informed that I can no longer create Masked Cards. ['Masked Card View' page]."
+   },
+   "mm_errorReport_body": {
+      "description": "no description",
+      "message": "Please let us know about the problem so we can do better next time."
+   },
+   "mm_errorReport_defaultMessage": {
+      "description": "no description",
+      "message": "An error occurred when I..."
+   },
+   "mm_errorReport_email_dropdown": {
+      "description": "no description",
+      "message": "An error occurred when I tried to create a Masked Email ['Mask My Email' panel option]."
+   },
+   "mm_errorReport_high_risk_country": {
+      "description": "no description",
+      "message": "I couldn't create a Masked Card because MaskMe told me I am outside the U.S. ['Masked Card View' page]."
+   },
+   "mm_errorReport_lead": {
+      "description": "no description",
+      "message": "Report an error:"
+   },
+   "mm_errorReport_loading_card_create_panel": {
+      "description": "no description",
+      "message": "An error occurred when I tried to create a Masked Card ['Mask My Card' panel option]."
+   },
+   "mm_errorReport_loading_card_details": {
+      "description": "no description",
+      "message": "An error occurred when I tried to view one of my Masked Cards ['Masked Card View' page]."
+   },
+   "mm_errorReport_loading_hold_on_payment": {
+      "description": "no description",
+      "message": "An error occurred when I tried to deactivate a card ['Deactivate' card button]."
+   },
+   "mm_errorReport_loading_manage_cards": {
+      "description": "no description",
+      "message": "An error occurred when I tried to view my Masked Cards ['Masked Cards' page]."
+   },
+   "mm_errorReport_loading_manage_cards_create": {
+      "description": "no description",
+      "message": "An error occurred when I tried to create a Masked Card ['Masked Cards' page]."
+   },
+   "mm_errorReport_loading_manage_cards_gift_create": {
+      "description": "no description",
+      "message": "An error occurred when I tried to gift a Masked Card ['Masked Cards' page]."
+   },
+   "mm_errorReport_loading_manage_cards_refresh": {
+      "description": "no description",
+      "message": "An error occurred when I tried to refresh my Masked Cards ['Masked Cards' page]."
+   },
+   "mm_errorReport_loading_manage_email": {
+      "description": "no description",
+      "message": "An error occurred when I tried to view my Masked Emails ['Masked Emails' page]."
+   },
+   "mm_errorReport_loading_manage_password": {
+      "description": "no description",
+      "message": "An error occurred when I tried to view my passwords ['Encrypted Passwords' page]."
+   },
+   "mm_errorReport_loading_manage_phones": {
+      "description": "no description",
+      "message": "An error occurred when I tried to view my Masked Phones ['Masked Phones' page]."
+   },
+   "mm_errorReport_loading_recurly_info_on_activation": {
+      "description": "no description",
+      "message": "An error occurred when I tried to activate Masked Cards ['Activate Cards' page]."
+   },
+   "mm_errorReport_loading_sites": {
+      "description": "no description",
+      "message": "An error occurred when I tried to view my accounts ['Account List' page]."
+   },
+   "mm_errorReport_loading_timeline": {
+      "description": "no description",
+      "message": "An error occurred when I tried to view the timeline ['Privacy Timeline' page]."
+   },
+   "mm_errorReport_successLead": {
+      "description": "no description",
+      "message": "Thanks a bunch!"
+   },
+   "mm_errorReport_successMsg": {
+      "description": "no description",
+      "message": "Your error reporting is much appreciated."
+   },
+   "mm_feedback_email": {
+      "description": "no description",
+      "message": "Email \u003Csmall\u003E(optional)\u003C/small\u003E"
+   },
+   "mm_feedback_emailHelp": {
+      "description": "no description",
+      "message": "Provide your email if you'd like a response. We won't ever share it or annoy you."
+   },
+   "mm_feedback_message": {
+      "description": "no description",
+      "message": "Message"
+   },
+   "mm_feedback_name": {
+      "description": "no description",
+      "message": "Name \u003Csmall\u003E(optional)\u003C/small\u003E"
+   },
+   "mm_feedback_sendFeedback": {
+      "description": "no description",
+      "message": "Send Feedback"
+   },
+   "mm_feedback_serverError": {
+      "description": "no description",
+      "message": "Doh! Your message didn't quite make it to us. Please try again later, or send mail directly to support@abine.com."
+   },
+   "mm_feedback_thanks": {
+      "description": "no description",
+      "message": "Thanks for your feedback."
+   },
+   "mm_feedback_useMasked": {
+      "description": "no description",
+      "message": "Use Masked Email"
+   },
+   "mm_feedback_workingHard": {
+      "description": "no description",
+      "message": "Our team is dedicated to making MaskMe a great product. Your input means a lot to us."
+   },
+   "mm_help_active_modal_Body": {
+      "description": "no description",
+      "message": "Masked Cards let you be in charge of who can or can't charge you. At any time you can \u003Cb\u003E Deactivate \u003C/b\u003E your Masked Cards. Doing so prevents any further charges from \u003Cb\u003E being applied to your card. You will also be automatically refunded \u003C/b\u003E for any remaining balance available on your Masked Card."
+   },
+   "mm_help_active_to_date_modal_Body": {
+      "description": "no description",
+      "message": "Masked Cards get created with an automatic closing date, after which no new charges can occur on the card.  This date isn't tied to the expiration date that's on your card (the month and year you usually provide as part of your billing information).  So, if your card's expiration date is April 2016 but the closing date is January 2014, your card won't accept new authorizations past January 2014."
+   },
+   "mm_help_active_to_date_modal_Label": {
+      "description": "no description",
+      "message": "What's this?"
+   },
+   "mm_help_active_to_date_modal_Ok": {
+      "description": "no description",
+      "message": "Close"
+   },
+   "mm_help_buildNumber": {
+      "description": "no description",
+      "message": "Build Number"
+   },
+   "mm_help_canceled_modal_Body": {
+      "description": "no description",
+      "message": "This charge was initially authorized for the merchant but then the merchant decided to cancel it. If this was a small authorization, it could have been the merchant testing the validity of your credit card. Please contact the merchant directly if you need more information."
+   },
+   "mm_help_forums": {
+      "description": "no description",
+      "message": "MaskMe User Forums"
+   },
+   "mm_help_haveFeedback": {
+      "description": "no description",
+      "message": "Have feedback for us?"
+   },
+   "mm_help_help": {
+      "description": "no description",
+      "message": "Help"
+   },
+   "mm_help_howAccess": {
+      "description": "no description",
+      "message": "How do I access my accounts from a different device?"
+   },
+   "mm_help_howPrevent": {
+      "description": "no description",
+      "message": "How do I prevent other users of my computer from viewing my stuff?"
+   },
+   "mm_help_link_whatIsThis": {
+      "description": "no description",
+      "message": "What's this?"
+   },
+   "mm_help_loveToHear": {
+      "description": "no description",
+      "message": "We'd love to hear from you.  Feel free to send us bug reports, feature requests, or love letters."
+   },
+   "mm_help_noEmails": {
+      "description": "no description",
+      "message": "I gave a website a Masked Email but I haven't received any emails. What gives?"
+   },
+   "mm_help_seeMore": {
+      "description": "no description",
+      "message": "See all FAQs"
+   },
+   "mm_help_status_modal_Body": {
+      "description": "no description",
+      "message": "\u003Cb\u003EPending\u003C/b\u003E transactions have been authorized, but not yet processed for payment. Once processed, these transactions will become \u003Cb\u003ECompleted\u003C/b\u003E.\u003Cbr\u003E\u003Cbr\u003E\u003Cb\u003EPending\u003C/b\u003E transactions will be deducted from your available credit on a Masked Card since it is an expected expense that the merchant has been allowed to proceed with.\u003Cbr\u003E\u003Cbr\u003ENote that the dollar amount for \u003Cb\u003EPending\u003C/b\u003E transactions may vary from the final \u003Cb\u003ECompleted\u003C/b\u003E amount. This practice is common for merchants that validate your card before the amount is finalized."
+   },
+   "mm_help_status_modal_Title": {
+      "description": "no description",
+      "message": "Transaction Statuses Explained"
+   },
+   "mm_help_test_auth_modal_Body": {
+      "description": "no description",
+      "message": "Some websites check the validity of your card with a small authorization. This practice is quite common. Once your purchase is finalized, this authorization will be canceled and a new one created for the full value of your purchase."
+   },
+   "mm_help_top5": {
+      "description": "no description",
+      "message": "Top 5 Frequently Asked Questions"
+   },
+   "mm_help_version": {
+      "description": "no description",
+      "message": "Version"
+   },
+   "mm_help_whatDoes": {
+      "description": "no description",
+      "message": "What does MaskMe store about me?"
+   },
+   "mm_help_whatMaskedEmail": {
+      "description": "no description",
+      "message": "What is a Masked Email?"
+   },
+   "mm_helper_installed": {
+      "description": "no description",
+      "message": "MaskMe installed. Click to get started."
+   },
+   "mm_hold_on_areYouSure": {
+      "description": "no description",
+      "message": "Are you sure?"
+   },
+   "mm_hold_on_blacklist": {
+      "description": "no description",
+      "message": "Hold on! You have existing login information associated with $1."
+   },
+   "mm_hold_on_blacklistWarning": {
+      "description": "no description",
+      "message": "\u003Cb\u003EBlacklisting this site will also mean deleting that existing information.\u003C/b\u003E Are you sure you want to do this?"
+   },
+   "mm_hold_on_cowboy": {
+      "description": "no description",
+      "message": "Hold on cowboy"
+   },
+   "mm_hold_on_deactivateAccount": {
+      "description": "no description",
+      "message": "Yes, deactivate it!"
+   },
+   "mm_hold_on_deactivateBody": {
+      "description": "no description",
+      "message": "This will deactivate your card.  You'll still be able to view all its history, but the card will no longer be accepted for any transactions.  Any remaining funds on your card will be refunded."
+   },
+   "mm_hold_on_delete": {
+      "description": "no description",
+      "message": "Yes, delete them!"
+   },
+   "mm_hold_on_deleteAccount": {
+      "description": "no description",
+      "message": "Yes, delete it!"
+   },
+   "mm_hold_on_email": {
+      "description": "no description",
+      "message": "Deleting this Masked Email means that you will also delete \u003Cb\u003Ethe login account you have for $1\u003C/b\u003E from MaskMe. Are you sure you want to do this?"
+   },
+   "mm_hold_on_maskedEmail": {
+      "description": "no description",
+      "message": "You have a Masked Email associated with this account.  \u003Cb\u003EWould you like to permanently delete this Masked Email?\u003C/b\u003E"
+   },
+   "mm_hold_on_maskedEmailDelete": {
+      "description": "no description",
+      "message": "Yes, delete the Masked Email."
+   },
+   "mm_hold_on_maskedEmailDontDelete": {
+      "description": "no description",
+      "message": "No, just delete my login account."
+   },
+   "mm_hold_on_nevermind": {
+      "description": "no description",
+      "message": "Nevermind"
+   },
+   "mm_hold_on_ok": {
+      "description": "no description",
+      "message": "OK"
+   },
+   "mm_hold_on_password": {
+      "description": "no description",
+      "message": "Deleting this password means that you will also delete \u003Cb\u003Ethe login account you have for $1\u003C/b\u003E from MaskMe. Are you sure you want to do this?"
+   },
+   "mm_hold_on_passwordless": {
+      "description": "no description",
+      "message": "You are trying to save this account without a password. This will mean that you can \u003Cb\u003Eno longer login with this account\u003C/b\u003E using MaskMe. Are you sure you want to do this?"
+   },
+   "mm_hold_on_resendGiftEmail": {
+      "description": "no description",
+      "message": "Yes, resend it!"
+   },
+   "mm_hold_on_resendGiftEmailBody": {
+      "description": "no description",
+      "message": "This will resend a gift card email to your original recipient $1."
+   },
+   "mm_hold_on_resendGiftError": {
+      "description": "no description",
+      "message": "Oops! We couldn't resend your gift card email. Please try again or contact us at support@getabine.com."
+   },
+   "mm_hold_on_save": {
+      "description": "no description",
+      "message": "Yes, save it!"
+   },
+   "mm_hold_on_site": {
+      "description": "no description",
+      "message": "Deleting this site means that you will also delete \u003Cb\u003Eall login accounts you have for $1\u003C/b\u003E from MaskMe. Are you sure you want to do this?"
+   },
+   "mm_hold_on_warning": {
+      "description": "no description",
+      "message": "This action will \u003Cb\u003Eblacklist\u003C/b\u003E $1 \u003Cb\u003Efrom MaskMe.\u003C/b\u003E This means that all current account information for it will be deleted, and moving forward MaskMe will ignore $1 entirely."
+   },
+   "mm_home_accountList": {
+      "description": "no description",
+      "message": "Account List"
+   },
+   "mm_home_accountListDesc": {
+      "description": "no description",
+      "message": "A record of your logins."
+   },
+   "mm_home_dataPrivacy": {
+      "description": "no description",
+      "message": "Privacy & My Data"
+   },
+   "mm_home_encryptedPasswords": {
+      "description": "no description",
+      "message": "Encrypted Passwords"
+   },
+   "mm_home_encryptedPasswordsDesc": {
+      "description": "no description",
+      "message": "Safe & sound."
+   },
+   "mm_home_gettingStarted": {
+      "description": "no description",
+      "message": "Getting Started Guide"
+   },
+   "mm_home_introVideo": {
+      "description": "no description",
+      "message": "Quick Intro Video"
+   },
+   "mm_home_maskedCard": {
+      "description": "no description",
+      "message": "Masked Credit Cards"
+   },
+   "mm_home_maskedCardDesc": {
+      "description": "no description",
+      "message": "Control who charges you."
+   },
+   "mm_home_maskedEmails": {
+      "description": "no description",
+      "message": "Masked Emails"
+   },
+   "mm_home_maskedEmailsDesc": {
+      "description": "no description",
+      "message": "Goodbye spam."
+   },
+   "mm_home_maskedPhones": {
+      "description": "no description",
+      "message": "Masked Phones"
+   },
+   "mm_home_maskedPhonesDesc": {
+      "description": "no description",
+      "message": "No more 8am telemarketing."
+   },
+   "mm_home_settings": {
+      "description": "no description",
+      "message": "Settings"
+   },
+   "mm_home_settingsDesc": {
+      "description": "no description",
+      "message": "MaskMe settings"
+   },
+   "mm_loading_display_Clouds": {
+      "description": "no description",
+      "message": "Flying through the clouds..."
+   },
+   "mm_loading_display_Crunching": {
+      "description": "no description",
+      "message": "Crunching some bits..."
+   },
+   "mm_loading_display_HangOn": {
+      "description": "no description",
+      "message": "Hang on.  This is taking a while..."
+   },
+   "mm_loading_display_Loading": {
+      "description": "no description",
+      "message": "Loading..."
+   },
+   "mm_loading_display_LotOfAccounts": {
+      "description": "no description",
+      "message": "You must have a lot of data..."
+   },
+   "mm_loading_display_SomethingsWrong": {
+      "description": "no description",
+      "message": "Something could be wrong... Diagnosing..."
+   },
+   "mm_loading_display_Sorry": {
+      "description": "no description",
+      "message": "Sorry.  You can try waiting longer, or refreshing the page.  If nothing works, \u003Ca href='#errorReport/$1'\u003Eclick here to report this issue.\u003C/a\u003E."
+   },
+   "mm_loading_display_StillWorking": {
+      "description": "no description",
+      "message": "Still working..."
+   },
+   "mm_loading_display_Tubes": {
+      "description": "no description",
+      "message": "Navigating Internet tubes..."
+   },
+   "mm_loading_display_Whoops": {
+      "description": "no description",
+      "message": "Whoops! Something went wrong. Please contact our support team by \u003Ca href='#errorReport/$1'\u003Eclicking here.\u003C/a\u003E"
+   },
+   "mm_loading_display_Whoops_Panel": {
+      "description": "no description",
+      "message": "Whoops! Something went wrong. \u003Ca id='linkToErrorReport' style='cursor:pointer;'\u003EClick to contact support.\u003C/a\u003E"
+   },
+   "mm_login_helper_loginAs": {
+      "description": "no description",
+      "message": "Log in as:"
+   },
+   "mm_manage_disableNotificationsBtn": {
+      "description": "no description",
+      "message": "Turn them off"
+   },
+   "mm_manage_disableNotificationsSubTitle": {
+      "description": "no description",
+      "message": "(You can change this later in \u003Ca href='#userInfo'\u003ESettings\u003C/a\u003E)"
+   },
+   "mm_manage_disableNotificationsTitle": {
+      "description": "no description",
+      "message": "Don't want MaskMe notifications on websites anymore?"
+   },
+   "mm_manage_emails_GenerateDisposableError": {
+      "description": "no description",
+      "message": "Please specify where you'll be using this Masked Email so we can help you manage it."
+   },
+   "mm_manage_emails_active": {
+      "description": "no description",
+      "message": "Forward or Block"
+   },
+   "mm_manage_emails_blocked": {
+      "description": "no description",
+      "message": "Blocked"
+   },
+   "mm_manage_emails_createMaskedEmail": {
+      "description": "no description",
+      "message": "Create Masked Email"
+   },
+   "mm_manage_emails_createNew": {
+      "description": "no description",
+      "message": "Create a new Masked Email"
+   },
+   "mm_manage_emails_created": {
+      "description": "no description",
+      "message": "Created"
+   },
+   "mm_manage_emails_deleteEmail": {
+      "description": "no description",
+      "message": "Delete this Masked Email"
+   },
+   "mm_manage_emails_email": {
+      "description": "no description",
+      "message": "Email"
+   },
+   "mm_manage_emails_forwardTo": {
+      "description": "no description",
+      "message": "Forward to:"
+   },
+   "mm_manage_emails_forwarding": {
+      "description": "no description",
+      "message": "Forwarding"
+   },
+   "mm_manage_emails_hideSite": {
+      "description": "no description",
+      "message": "Have MaskMe permanently ignore $1"
+   },
+   "mm_manage_emails_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_manage_emails_makeANote": {
+      "description": "no description",
+      "message": "Make a note of where you'll use it:"
+   },
+   "mm_manage_emails_maskedEmails": {
+      "description": "no description",
+      "message": "Masked Emails"
+   },
+   "mm_manage_emails_noMaskedEmails": {
+      "description": "no description",
+      "message": "You don't have any Masked Emails yet."
+   },
+   "mm_manage_emails_serverError": {
+      "description": "no description",
+      "message": "Oops! There was a problem loading all your emails.  Sorry for that.  \u003Ca href='#errorReport/manage_emails_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_manage_emails_timesEmailed": {
+      "description": "no description",
+      "message": "Times emailed"
+   },
+   "mm_manage_emails_website": {
+      "description": "no description",
+      "message": "Website"
+   },
+   "mm_manage_emails_whyNot": {
+      "description": "no description",
+      "message": "Why not \u003Ca href='#userInfo'\u003Esetup phone masking\u003C/a\u003E and stop annoying calls and texts?"
+   },
+   "mm_manage_emails_youHaveNot": {
+      "description": "no description",
+      "message": "You have not \u003Ca href='#userInfo'\u003Esetup your email\u003C/a\u003E yet."
+   },
+   "mm_manage_emails_yourMaskedEmails": {
+      "description": "no description",
+      "message": "Your Masked Emails"
+   },
+   "mm_manage_keepItUp": {
+      "description": "no description",
+      "message": "Keep them coming"
+   },
+   "mm_manage_passwords_created": {
+      "description": "no description",
+      "message": "Created"
+   },
+   "mm_manage_passwords_dataSecurity": {
+      "description": "no description",
+      "message": "Data Security"
+   },
+   "mm_manage_passwords_deletePassword": {
+      "description": "no description",
+      "message": "Delete this password"
+   },
+   "mm_manage_passwords_encryptedPasswords": {
+      "description": "no description",
+      "message": "Encrypted Passwords"
+   },
+   "mm_manage_passwords_generatePassword": {
+      "description": "no description",
+      "message": "Generate Password"
+   },
+   "mm_manage_passwords_hideMe": {
+      "description": "no description",
+      "message": "Hide me"
+   },
+   "mm_manage_passwords_hideSite": {
+      "description": "no description",
+      "message": "Have MaskMe permanently ignore $1"
+   },
+   "mm_manage_passwords_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_manage_passwords_password": {
+      "description": "no description",
+      "message": "Password"
+   },
+   "mm_manage_passwords_reuse": {
+      "description": "no description",
+      "message": "Reuse"
+   },
+   "mm_manage_passwords_roulette": {
+      "description": "no description",
+      "message": "Play Password Roulette"
+   },
+   "mm_manage_passwords_serverError": {
+      "description": "no description",
+      "message": "Oops! There was a problem decrypting your passwords.  Sorry for that.  \u003Ca href='#errorReport/manage_passwords_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_manage_passwords_showMe": {
+      "description": "no description",
+      "message": "Show me"
+   },
+   "mm_manage_passwords_unique": {
+      "description": "no description",
+      "message": "Unique"
+   },
+   "mm_manage_passwords_used": {
+      "description": "no description",
+      "message": "Used $1 times"
+   },
+   "mm_manage_passwords_website": {
+      "description": "no description",
+      "message": "Website"
+   },
+   "mm_manage_passwords_yourPasswords": {
+      "description": "no description",
+      "message": "Your Encrypted Passwords"
+   },
+   "mm_manage_payments_MaskedCards": {
+      "description": "no description",
+      "message": "Masked Cards"
+   },
+   "mm_manage_payments_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_manage_phones_PhoneSetup": {
+      "description": "no description",
+      "message": "Looks like you have set up your phone number on another computer and need to \u003Ca href='#editUser/phone'\u003Eset it up\u003C/a\u003E again on this one."
+   },
+   "mm_manage_phones_action": {
+      "description": "no description",
+      "message": "ACTION"
+   },
+   "mm_manage_phones_blocked": {
+      "description": "no description",
+      "message": "Blocked"
+   },
+   "mm_manage_phones_callsForwardTo": {
+      "description": "no description",
+      "message": "Calls forward to:"
+   },
+   "mm_manage_phones_forwarding": {
+      "description": "no description",
+      "message": "Forwarding"
+   },
+   "mm_manage_phones_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_manage_phones_lastContacted": {
+      "description": "no description",
+      "message": "Last contacted"
+   },
+   "mm_manage_phones_letsGet": {
+      "description": "no description",
+      "message": "Lets get your Masked Phone set up."
+   },
+   "mm_manage_phones_maskedPhoneIs": {
+      "description": "no description",
+      "message": "Your Masked Phone number is:"
+   },
+   "mm_manage_phones_maskedPhones": {
+      "description": "no description",
+      "message": "Masked Phones"
+   },
+   "mm_manage_phones_noMaskedPhones": {
+      "description": "no description",
+      "message": "You have not received any calls or texts on your Masked Phone yet."
+   },
+   "mm_manage_phones_number": {
+      "description": "no description",
+      "message": "Number"
+   },
+   "mm_manage_phones_quick": {
+      "description": "no description",
+      "message": "Don't worry, it'll be quick."
+   },
+   "mm_manage_phones_serverError": {
+      "description": "no description",
+      "message": "Oops! There was a problem loading your Masked Phone log.  Sorry for that.  \u003Ca href='#errorReport/manage_phones_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_manage_phones_timesCalled": {
+      "description": "no description",
+      "message": "Times called"
+   },
+   "mm_manage_phones_timesTexted": {
+      "description": "no description",
+      "message": "texted"
+   },
+   "mm_manage_phones_who": {
+      "description": "no description",
+      "message": "Who was it"
+   },
+   "mm_nav_help": {
+      "description": "no description",
+      "message": "Help"
+   },
+   "mm_nav_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_nav_lastSync": {
+      "description": "no description",
+      "message": "Last sync:"
+   },
+   "mm_nav_lock": {
+      "description": "no description",
+      "message": "Lock"
+   },
+   "mm_nav_settings": {
+      "description": "no description",
+      "message": "Settings"
+   },
+   "mm_nav_sync": {
+      "description": "no description",
+      "message": "Sync"
+   },
+   "mm_nav_syncing": {
+      "description": "no description",
+      "message": "Syncing..."
+   },
+   "mm_nav_timeline": {
+      "description": "no description",
+      "message": "Privacy Timeline"
+   },
+   "mm_nav_tooLongSync": {
+      "description": "no description",
+      "message": "Never Synced"
+   },
+   "mm_nav_unlock": {
+      "description": "no description",
+      "message": "Unlock"
+   },
+   "mm_password_helper_differentSpecialChars": {
+      "description": "no description",
+      "message": "Try a password with different special characters"
+   },
+   "mm_password_helper_generateStrong": {
+      "description": "no description",
+      "message": "Make Me A Strong Password"
+   },
+   "mm_password_helper_moreOptions": {
+      "description": "no description",
+      "message": "More Options"
+   },
+   "mm_password_helper_noNumbers": {
+      "description": "no description",
+      "message": "Try a password with no numbers"
+   },
+   "mm_password_helper_noSpecialChars": {
+      "description": "no description",
+      "message": "Try a password with no special characters"
+   },
+   "mm_password_helper_or": {
+      "description": "no description",
+      "message": "OR"
+   },
+   "mm_password_helper_typePassword": {
+      "description": "no description",
+      "message": "Just type in your password. MaskMe will still save it."
+   },
+   "mm_payment_active": {
+      "description": "no description",
+      "message": "Active"
+   },
+   "mm_payment_activeToDate": {
+      "description": "no description",
+      "message": "Closing Date"
+   },
+   "mm_payment_card": {
+      "description": "no description",
+      "message": "Masked Cards"
+   },
+   "mm_payment_cardDetails": {
+      "description": "no description",
+      "message": "Card Details"
+   },
+   "mm_payment_create_card": {
+      "description": "no description",
+      "message": "Create Card"
+   },
+   "mm_payment_created": {
+      "description": "no description",
+      "message": "Created"
+   },
+   "mm_payment_disposable_active": {
+      "description": "no description",
+      "message": "Deactivate Card"
+   },
+   "mm_payment_disposable_blocked": {
+      "description": "no description",
+      "message": "Deactivated"
+   },
+   "mm_payment_domain": {
+      "description": "no description",
+      "message": "Domain"
+   },
+   "mm_payment_edit": {
+      "description": "no description",
+      "message": "Change Card"
+   },
+   "mm_payment_error": {
+      "description": "no description",
+      "message": "Oops! Something went wrong. \u003Ca href='#errorReport/payments_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_payment_error_abine": {
+      "description": "no description",
+      "message": "Oops! There's been a serious error. Please try again, and contact us ASAP at support@getabine.com."
+   },
+   "mm_payment_error_billing": {
+      "description": "no description",
+      "message": "Sorry, there was an error charging your card on file. If this is a mistake, please contact us at support@getabine.com."
+   },
+   "mm_payment_error_deactivate_abine": {
+      "description": "no description",
+      "message": "Oops! There's been a serious error. Please try again, and contact us ASAP at support@getabine.com."
+   },
+   "mm_payment_error_deactivate_provider": {
+      "description": "no description",
+      "message": "Sorry, there was an error closing your Masked Card. Please try again later, or contact us at support@getabine.com."
+   },
+   "mm_payment_error_deactivate_refund": {
+      "description": "no description",
+      "message": "Sorry, there was an error refunding your credit card on file. However, your card has been closed. Please contact us at support@getabine.com."
+   },
+   "mm_payment_error_declined": {
+      "description": "no description",
+      "message": "Sorry, your card on file was declined. Please update your information or contact us at support@getabine.com."
+   },
+   "mm_payment_error_grey_listed": {
+      "description": "no description",
+      "message": "Sorry, but you must"
+   },
+   "mm_payment_error_hard_limit": {
+      "description": "no description",
+      "message": "Sorry, you can no longer create masked cards. Please \u003Ca href='#errorReport/banned_user'\u003Econtact support for more information.\u003C/a\u003E"
+   },
+   "mm_payment_error_high_risk_country": {
+      "description": "no description",
+      "message": "Sorry, but Masked Cards are only available to U.S. users at this time. We will be adding international support soon. \u003Ca href='#errorReport/high_risk_country'\u003EContact support\u003C/a\u003E for any questions."
+   },
+   "mm_payment_error_no_card_for": {
+      "description": "no description",
+      "message": "Please specify where you want to use this card."
+   },
+   "mm_payment_error_provider": {
+      "description": "no description",
+      "message": "Sorry, there was an error retrieving a Masked Card. Please try again later, or contact us at support@getabine.com."
+   },
+   "mm_payment_error_refresh": {
+      "description": "no description",
+      "message": "We couldn't refresh your list of cards. Please try again later or contact us at support@getabine.com."
+   },
+   "mm_payment_error_refund": {
+      "description": "no description",
+      "message": "Sorry, we cannot retrieve a Masked Card and failed to issue a refund. We are working to resolve the error. Please contact us ASAP at support@getabine.com."
+   },
+   "mm_payment_error_soft_limit": {
+      "description": "no description",
+      "message": "Sorry, there are temporary limits on Masked Cards. To lift these limits,"
+   },
+   "mm_payment_error_validation_input": {
+      "description": "no description",
+      "message": "Sorry, the amount must be a valid amount in dollars and cents."
+   },
+   "mm_payment_error_validation_max": {
+      "description": "no description",
+      "message": "Sorry, the maximum amount for a Masked Card is $1. To increase this limit,"
+   },
+   "mm_payment_error_validation_min": {
+      "description": "no description",
+      "message": "Sorry, the minimum amount for a Masked Card is $1."
+   },
+   "mm_payment_error_validation_verified": {
+      "description": "no description",
+      "message": "Sorry, the amount must be between $1 and $2. Please try again."
+   },
+   "mm_payment_error_verified_soft_limit": {
+      "description": "no description",
+      "message": "Sorry, there are temporary limits on Masked Cards. Please contact support@getabine.com if you'd like these lifted."
+   },
+   "mm_payment_expiry": {
+      "description": "no description",
+      "message": "Expiry"
+   },
+   "mm_payment_giftCowboy": {
+      "description": "no description",
+      "message": "Please confirm that you want to create a new Masked Card.  This will charge your card ending in $1."
+   },
+   "mm_payment_giftCowboy_email": {
+      "description": "no description",
+      "message": "Please confirm that you want to create a new Masked Card that will be sent to $1.  This will charge your card ending in $2."
+   },
+   "mm_payment_gift_email": {
+      "description": "no description",
+      "message": "Their email address:"
+   },
+   "mm_payment_gift_email_required": {
+      "description": "no description",
+      "message": "Please enter a valid email address"
+   },
+   "mm_payment_gift_first_name": {
+      "description": "no description",
+      "message": "First Name"
+   },
+   "mm_payment_gift_info": {
+      "description": "no description",
+      "message": "Your Masked Card gift card will be securely delivered by email. Your card ending in \u003Cspan class='lastFourSpan'\u003E\u003C/span\u003E will be charged for the specified amount."
+   },
+   "mm_payment_gift_last_name": {
+      "description": "no description",
+      "message": "Last Name"
+   },
+   "mm_payment_gift_name_required": {
+      "description": "no description",
+      "message": "Please enter first and last name"
+   },
+   "mm_payment_gift_to": {
+      "description": "no description",
+      "message": "Who is this for?"
+   },
+   "mm_payment_helper_amount_subscription": {
+      "description": "no description",
+      "message": "The total amount $1 must be between $2 and $3. To increase these limits,"
+   },
+   "mm_payment_helper_discloseCard": {
+      "description": "no description",
+      "message": "Disclose My Card"
+   },
+   "mm_payment_helper_maskCard": {
+      "description": "no description",
+      "message": "Mask My Card"
+   },
+   "mm_payment_helper_nonzero_months": {
+      "description": "no description",
+      "message": "Months must be greater than 0."
+   },
+   "mm_payment_helper_pleaseValidate": {
+      "description": "no description",
+      "message": "Please validate your Card number to mask it."
+   },
+   "mm_payment_helper_setupMasked": {
+      "description": "no description",
+      "message": "Click here to activate Masked Cards."
+   },
+   "mm_payment_helper_upgradeMaskedCard": {
+      "description": "no description",
+      "message": "Like Masked Emails? Try Masked Cards."
+   },
+   "mm_payment_helper_usesCard": {
+      "description": "no description",
+      "message": "create private card"
+   },
+   "mm_payment_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_payment_issued_to": {
+      "description": "no description",
+      "message": "Name"
+   },
+   "mm_payment_label": {
+      "description": "no description",
+      "message": "Used At"
+   },
+   "mm_payment_lastFour": {
+      "description": "no description",
+      "message": "Last Four"
+   },
+   "mm_payment_maskingCard": {
+      "description": "no description",
+      "message": "Masking your real card"
+   },
+   "mm_payment_noMaskedCards": {
+      "description": "no description",
+      "message": "You have not created any masked cards yet.  Next time you are at a checkout form give it a shot!"
+   },
+   "mm_payment_number": {
+      "description": "no description",
+      "message": "Card Number"
+   },
+   "mm_payment_originalValue": {
+      "description": "no description",
+      "message": "Original Value"
+   },
+   "mm_payment_save": {
+      "description": "no description",
+      "message": "Save"
+   },
+   "mm_payment_serverError": {
+      "description": "no description",
+      "message": "Oops! Something went wrong.  Sorry for that.  Please try again later, or contact us at support@getabine.com for immediate assistance."
+   },
+   "mm_payment_type": {
+      "description": "no description",
+      "message": "Type"
+   },
+   "mm_payment_usedFor": {
+      "description": "no description",
+      "message": "Used For"
+   },
+   "mm_payment_verification": {
+      "description": "no description",
+      "message": "CVV"
+   },
+   "mm_phone_helper_disclosePhone": {
+      "description": "no description",
+      "message": "Disclose My Phone"
+   },
+   "mm_phone_helper_maskPhone": {
+      "description": "no description",
+      "message": "Mask My Phone"
+   },
+   "mm_phone_helper_pleaseValidate": {
+      "description": "no description",
+      "message": "Please validate your phone number to mask it."
+   },
+   "mm_phone_helper_setupMasked": {
+      "description": "no description",
+      "message": "Click here to set up Masked Phone."
+   },
+   "mm_phone_helper_upgradeMaskedPhone": {
+      "description": "no description",
+      "message": "Like Masked Emails? Try Masked Phones."
+   },
+   "mm_phone_helper_usesPhone": {
+      "description": "no description",
+      "message": "your Masked Phone"
+   },
+   "mm_preferences_ignore": {
+      "description": "no description",
+      "message": "Manage Ignore List"
+   },
+   "mm_preferences_logins": {
+      "description": "no description",
+      "message": "Logins"
+   },
+   "mm_preferences_notifications": {
+      "description": "no description",
+      "message": "Notifications"
+   },
+   "mm_preferences_preferences": {
+      "description": "no description",
+      "message": "Preferences"
+   },
+   "mm_preferences_privacy": {
+      "description": "no description",
+      "message": "Privacy"
+   },
+   "mm_preferences_websiteForms": {
+      "description": "no description",
+      "message": "Website Forms"
+   },
+   "mm_print_accounts_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_print_accounts_loading": {
+      "description": "no description",
+      "message": "Loading..."
+   },
+   "mm_print_accounts_noAccounts": {
+      "description": "no description",
+      "message": "MaskMe hasn't stored any accounts for you yet.  Keep using the internet as usual and eventually you'll see some information here."
+   },
+   "mm_print_accounts_number": {
+      "description": "no description",
+      "message": "account(s) have been stored."
+   },
+   "mm_print_accounts_print": {
+      "description": "no description",
+      "message": "Print"
+   },
+   "mm_print_accounts_printAccountsList": {
+      "description": "no description",
+      "message": "Print Account List"
+   },
+   "mm_print_accounts_show": {
+      "description": "no description",
+      "message": "Show Accounts"
+   },
+   "mm_privacy_suite_accounts_to_import": {
+      "description": "no description",
+      "message": "You have $1 login accounts in '$2'."
+   },
+   "mm_privacy_suite_description": {
+      "description": "no description",
+      "message": "You can import all your saved login accounts into MaskMe!"
+   },
+   "mm_privacy_suite_done_action": {
+      "description": "no description",
+      "message": "Go to MaskMe Accounts List"
+   },
+   "mm_privacy_suite_import": {
+      "description": "no description",
+      "message": "Import accounts"
+   },
+   "mm_privacy_suite_import_done": {
+      "description": "no description",
+      "message": "Import successful. $1 account(s) added."
+   },
+   "mm_privacy_suite_import_duplicates": {
+      "description": "no description",
+      "message": "$1 duplicate(s) skipped."
+   },
+   "mm_privacy_suite_import_progress": {
+      "description": "no description",
+      "message": "$1 of $2 accounts imported"
+   },
+   "mm_privacy_suite_init_import": {
+      "description": "no description",
+      "message": "Initializing import"
+   },
+   "mm_privacy_suite_login_required": {
+      "description": "no description",
+      "message": "You have not logged into '$1'.  Please login and click on refresh."
+   },
+   "mm_privacy_suite_no_accounts": {
+      "description": "no description",
+      "message": "Could not find any login accounts to import."
+   },
+   "mm_privacy_suite_refresh": {
+      "description": "no description",
+      "message": "Refresh"
+   },
+   "mm_privacy_suite_title": {
+      "description": "no description",
+      "message": "Import logins from $1"
+   },
+   "mm_recheck_edit": {
+      "description": "no description",
+      "message": "To edit this"
+   },
+   "mm_recheck_hint": {
+      "description": "no description",
+      "message": "Show Hint"
+   },
+   "mm_recheck_pleaseEnter": {
+      "description": "no description",
+      "message": "please enter your MaskMe password:"
+   },
+   "mm_recheck_verify": {
+      "description": "no description",
+      "message": "Verify"
+   },
+   "mm_recheck_view": {
+      "description": "no description",
+      "message": "To view this"
+   },
+   "mm_recheck_wrong": {
+      "description": "no description",
+      "message": "Whoops! That password doesn't look right. Check your hint?"
+   },
+   "mm_register_emailAddress": {
+      "description": "no description",
+      "message": "Email Address"
+   },
+   "mm_register_howSecure": {
+      "description": "no description",
+      "message": "Learn how."
+   },
+   "mm_register_password": {
+      "description": "no description",
+      "message": "Password"
+   },
+   "mm_register_passwordNeverSaved": {
+      "description": "no description",
+      "message": "Your password is never saved:"
+   },
+   "mm_register_sync": {
+      "description": "no description",
+      "message": "SYNC"
+   },
+   "mm_register_syncAccountInfo": {
+      "description": "no description",
+      "message": "Sync Account Info"
+   },
+   "mm_register_wrongPassword": {
+      "description": "no description",
+      "message": "Oops, wrong password!"
+   },
+   "mm_reset_password_BadEmail": {
+      "description": "no description",
+      "message": "\u003Cstrong\u003EUh oh!\u003C/strong\u003E Please check you entered your email correctly and that it matches your MaskMe account."
+   },
+   "mm_reset_password_EmailPlaceholder": {
+      "description": "no description",
+      "message": "Email"
+   },
+   "mm_reset_password_Enter": {
+      "description": "no description",
+      "message": "Enter your email address below and we will send you a link to reset your password:"
+   },
+   "mm_reset_password_Forgetting": {
+      "description": "no description",
+      "message": "Forgetting your password is never fun. Because MaskMe keeps your data completely private by using your actual password to encrypt it, \u003Cb\u003Eresetting your password will unfortunately wipe all your current MaskMe account information.\u003C/b\u003E You should only do this if you are absolutely sure you don't remember your password."
+   },
+   "mm_reset_password_Forgot": {
+      "description": "no description",
+      "message": "Forgot your password? :("
+   },
+   "mm_reset_password_GoBack": {
+      "description": "no description",
+      "message": "Go Back"
+   },
+   "mm_reset_password_SendLink": {
+      "description": "no description",
+      "message": "Send Reset Link"
+   },
+   "mm_reset_password_SendingLink": {
+      "description": "no description",
+      "message": "Sending reset link..."
+   },
+   "mm_reset_password_ServerError": {
+      "description": "no description",
+      "message": "\u003Cstrong\u003EUh oh!\u003C/strong\u003E Something went wrong. Please try again in a few minutes."
+   },
+   "mm_reset_password_Success": {
+      "description": "no description",
+      "message": "\u003Cstrong\u003EOK!\u003C/strong\u003E The email was sent successfully.  \u003Ca href=\"javascript:;\" id=\"resendLink\"\u003EResend reset link\u003C/a\u003E"
+   },
+   "mm_site_accountList": {
+      "description": "no description",
+      "message": "Account List"
+   },
+   "mm_site_accountsListTitleEmpty": {
+      "description": "no description",
+      "message": "You don't have any login accounts for $1."
+   },
+   "mm_site_accountsListTitleYour": {
+      "description": "no description",
+      "message": "Your $1 accounts:"
+   },
+   "mm_site_dataSecurity": {
+      "description": "no description",
+      "message": "Data Security"
+   },
+   "mm_site_helpForwarding": {
+      "description": "no description",
+      "message": "How does forwarding work?"
+   },
+   "mm_site_historyCopyField": {
+      "description": "no description",
+      "message": "Copy"
+   },
+   "mm_site_historyCopyMessage": {
+      "description": "no description",
+      "message": "Does one of your accounts have the wrong information?  COPY and PASTE from below to the accounts above to make corrections."
+   },
+   "mm_site_historyCopyMessageEmpty": {
+      "description": "no description",
+      "message": "Below is the information you've given to $1."
+   },
+   "mm_site_historyDeleteField": {
+      "description": "no description",
+      "message": "Delete permanently"
+   },
+   "mm_site_historyHideBtn": {
+      "description": "no description",
+      "message": "Hide me"
+   },
+   "mm_site_historyNoHistory": {
+      "description": "no description",
+      "message": "There is no saved history for this account."
+   },
+   "mm_site_historyShowBtn": {
+      "description": "no description",
+      "message": "Show me"
+   },
+   "mm_site_historySubTitle": {
+      "description": "no description",
+      "message": "You can view all your previously saved account data."
+   },
+   "mm_site_historySubTitleEmpty": {
+      "description": "no description",
+      "message": "See all the information you've given $1."
+   },
+   "mm_site_historyTitle": {
+      "description": "no description",
+      "message": "Don't see the right info?"
+   },
+   "mm_site_historyUsedInLogin": {
+      "description": "no description",
+      "message": "Currently used in login"
+   },
+   "mm_site_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_site_serverError": {
+      "description": "no description",
+      "message": "Oops! There was a problem decrypting your account data.  Sorry for that.  \u003Ca href='#errorReport/one_site_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_sites_accountList": {
+      "description": "no description",
+      "message": "Account List"
+   },
+   "mm_sites_home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_sites_keepItUpBtn": {
+      "description": "no description",
+      "message": "Remember all logins"
+   },
+   "mm_sites_loading": {
+      "description": "no description",
+      "message": "&nbsp;&nbsp;Loading..."
+   },
+   "mm_sites_masked": {
+      "description": "no description",
+      "message": "Masked"
+   },
+   "mm_sites_noSitesYet": {
+      "description": "no description",
+      "message": "MaskMe hasn't stored any accounts for you yet. Come back once you've \u003Ca href='http://www.abine.com/maskme/emails' target='_blank'\u003Ecreated a masked account\u003C/a\u003E!"
+   },
+   "mm_sites_printAccounts": {
+      "description": "no description",
+      "message": "View or Print Account Info"
+   },
+   "mm_sites_rememberOnlyMaskMeBtn": {
+      "description": "no description",
+      "message": "Remember only Masked logins"
+   },
+   "mm_sites_rememberOnlyMaskMeTitle": {
+      "description": "no description",
+      "message": "How should MaskMe help?"
+   },
+   "mm_sites_serverError": {
+      "description": "no description",
+      "message": "Oops! There was a problem decrypting your account data.  Sorry for that.  \u003Ca href='#errorReport/sites_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_sites_skepticsLink": {
+      "description": "no description",
+      "message": "See why you can trust us"
+   },
+   "mm_sites_sort": {
+      "description": "no description",
+      "message": "Sort..."
+   },
+   "mm_sites_sortByMostRecent": {
+      "description": "no description",
+      "message": "Most&nbsp;Recent"
+   },
+   "mm_sites_sortByName": {
+      "description": "no description",
+      "message": "Name"
+   },
+   "mm_sites_statsEmailsMasked": {
+      "description": "no description",
+      "message": "Emails Masked"
+   },
+   "mm_sites_statsOf": {
+      "description": "no description",
+      "message": "of $1 sites"
+   },
+   "mm_sites_statsPhonesMasked": {
+      "description": "no description",
+      "message": "Phones Masked"
+   },
+   "mm_sites_statsUniquePasswords": {
+      "description": "no description",
+      "message": "Unique Passwords"
+   },
+   "mm_timeline_clear": {
+      "description": "no description",
+      "message": "Clear"
+   },
+   "mm_timeline_clearAll": {
+      "description": "no description",
+      "message": "Clear all timeline events"
+   },
+   "mm_timeline_hideActivity": {
+      "description": "no description",
+      "message": "Delete this timeline event"
+   },
+   "mm_timeline_hideSite": {
+      "description": "no description",
+      "message": "Have MaskMe permanently ignore $1"
+   },
+   "mm_timeline_loading": {
+      "description": "no description",
+      "message": "Loading..."
+   },
+   "mm_timeline_nevermind": {
+      "description": "no description",
+      "message": "Nevermind"
+   },
+   "mm_timeline_notificationsOff": {
+      "description": "no description",
+      "message": "If you'd like to turn off notifications, or disable account saving, go to the \u003Cstrong\u003ESettings\u003C/strong\u003E page."
+   },
+   "mm_timeline_privacyTimeline": {
+      "description": "no description",
+      "message": "Privacy Timeline"
+   },
+   "mm_timeline_privacyTimelineDesc": {
+      "description": "no description",
+      "message": "Your Privacy Timeline is not like your Facebook timeline. See where & when you've shared your personal info... and where you masked it."
+   },
+   "mm_timeline_seeMore": {
+      "description": "no description",
+      "message": "See More"
+   },
+   "mm_timeline_serverError": {
+      "description": "no description",
+      "message": "Oops! Something went wrong loading your timeline.  Sorry for that.  \u003Ca href='#errorReport/timeline_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_transactions_Amount": {
+      "description": "no description",
+      "message": "Amount"
+   },
+   "mm_transactions_Date": {
+      "description": "no description",
+      "message": "Date"
+   },
+   "mm_transactions_Home": {
+      "description": "no description",
+      "message": "Home"
+   },
+   "mm_transactions_Merchant": {
+      "description": "no description",
+      "message": "Merchant"
+   },
+   "mm_transactions_Notes": {
+      "description": "no description",
+      "message": "Notes"
+   },
+   "mm_transactions_Status": {
+      "description": "no description",
+      "message": "Status"
+   },
+   "mm_transactions_Transactions": {
+      "description": "no description",
+      "message": "Transactions"
+   },
+   "mm_transactions_noTransactions": {
+      "description": "no description",
+      "message": "There is no activity on this card yet."
+   },
+   "mm_transactions_serverError": {
+      "description": "no description",
+      "message": "Oops! There was a problem completing this transaction.  Sorry for that. \u003Ca href='#errorReport/transactions_error'\u003EClick to report this issue.\u003C/a\u003E"
+   },
+   "mm_uninstall_accountDelete": {
+      "description": "no description",
+      "message": "MaskMe Account Deleted"
+   },
+   "mm_uninstall_deleteAccount": {
+      "description": "no description",
+      "message": "Delete all of my MaskMe account information"
+   },
+   "mm_uninstall_extensionUninstall": {
+      "description": "no description",
+      "message": "IMPORTANT: You still need to delete the MaskMe extension from your browser. Much of your account information is stored locally on your machine, and will still exist until you delete this extension."
+   },
+   "mm_uninstall_infoRemoved": {
+      "description": "no description",
+      "message": "We have removed all information about you from our servers."
+   },
+   "mm_uninstall_noLongerWant": {
+      "description": "no description",
+      "message": "If you no longer want to use MaskMe, you can request that all your account information be deleted from our servers. For the most part your data is encrypted & stored locally on your computer anyways, but everybody likes a clean slate, and we respect that."
+   },
+   "mm_uninstall_readStoring": {
+      "description": "no description",
+      "message": "Read about what we do store here."
+   },
+   "mm_uninstall_seeHowChrome": {
+      "description": "no description",
+      "message": "See how to remove an extension from Chrome."
+   },
+   "mm_uninstall_seeHowFirefox": {
+      "description": "no description",
+      "message": "See how to remove an extension from Firefox."
+   },
+   "mm_uninstall_serverError": {
+      "description": "no description",
+      "message": "Sorry, something went wrong and we cannot complete the uninstall now. Please try again soon."
+   },
+   "mm_uninstall_soYouKnow": {
+      "description": "no description",
+      "message": "Just so you know:"
+   },
+   "mm_uninstall_sorry": {
+      "description": "no description",
+      "message": "We are sorry to see you go."
+   },
+   "mm_uninstall_storing": {
+      "description": "no description",
+      "message": "Abine and the MaskMe team pride ourselves in storing as little information about you as we can in order to offer you a quality experience. Whenever possible, what we do store is done so anonymously or is encrypted."
+   },
+   "mm_uninstall_whatBetter": {
+      "description": "no description",
+      "message": "What could we have done better?"
+   },
+   "mm_unlock_AutoLockPref": {
+      "description": "no description",
+      "message": "Auto-lock MaskMe whenever I restart my browser."
+   },
+   "mm_unlock_Hint": {
+      "description": "no description",
+      "message": "Your hint:"
+   },
+   "mm_unlock_HintNull": {
+      "description": "no description",
+      "message": "Your hint is 'null'.  Did you ever set one? :("
+   },
+   "mm_unlock_InvalidPassword": {
+      "description": "no description",
+      "message": "Whoops! That password doesn't look right."
+   },
+   "mm_unlock_panel_LockedEnterPass": {
+      "description": "no description",
+      "message": "MaskMe is Locked. Enter your password:"
+   },
+   "mm_unlock_panel_Unlock": {
+      "description": "no description",
+      "message": "Unlock"
+   },
+   "mm_unlock_panel_WrongPass": {
+      "description": "no description",
+      "message": "Wrong Password!"
+   },
+   "mm_unlock_password_Decrypting": {
+      "description": "no description",
+      "message": "Please wait while MaskMe decrypts your data"
+   },
+   "mm_unlock_password_Hint": {
+      "description": "no description",
+      "message": "Show Hint"
+   },
+   "mm_unlock_password_LockedNoOneCan": {
+      "description": "no description",
+      "message": "MaskMe is Locked, so no one can get to your data."
+   },
+   "mm_unlock_password_SomethingWrong": {
+      "description": "no description",
+      "message": "Oops. Something may have gone wrong. If this message doesn't go away after a few seconds, you may need to restart your browser. Sorry :("
+   },
+   "mm_unlock_password_ToUnlock": {
+      "description": "no description",
+      "message": "To unlock, enter your password:"
+   },
+   "mm_unlock_password_Unlock": {
+      "description": "no description",
+      "message": "Unlock"
+   },
+   "mm_user_email_EmailAlreadyTakenError": {
+      "description": "no description",
+      "message": "Oops! That email address is already in use.  Please try another one."
+   },
+   "mm_user_email_EmailError": {
+      "description": "no description",
+      "message": "Oops! There was a problem with your email address. Please double check that you entered it correctly and try again."
+   },
+   "mm_user_info_DeleteMyAccount": {
+      "description": "no description",
+      "message": "Delete my MaskMe Account"
+   },
+   "mm_user_login_InvalidLogin": {
+      "description": "no description",
+      "message": "Oops! Invalid email address or password."
+   },
+   "mm_user_login_LockedAccount1": {
+      "description": "no description",
+      "message": "Your account has been locked due to too many failed login attempts. Check your email for unlock instructions or resend the email \u003Ca href='javascript:void(0)' id='resendLink'\u003Ehere.\u003C/a\u003E \u003Cspan id='isSent'\u003E\u003C/span\u003E"
+   },
+   "mm_user_login_MarkedForDelete": {
+      "description": "no description",
+      "message": "Oops! That account has been marked for deletion."
+   },
+   "mm_user_login_NoAccountForEmail": {
+      "description": "no description",
+      "message": "Oops! There's no account for that email address."
+   },
+   "mm_user_login_NullPasswordHint": {
+      "description": "no description",
+      "message": "Your hint is 'null'.  Did you ever set one? :("
+   },
+   "mm_user_login_ResendEmailFailed": {
+      "description": "no description",
+      "message": "\u003Cstrong\u003EOops! Is the email below correct?\u003C/strong\u003E"
+   },
+   "mm_user_login_ResendEmailSuccessful": {
+      "description": "no description",
+      "message": "\u003Cstrong\u003EUnlock instructions have been resent.\u003C/strong\u003E"
+   },
+   "mm_user_login_WrongPassword": {
+      "description": "no description",
+      "message": "Oops! That password doesn't look right. Hint:"
+   },
+   "mm_user_login_allAccounts": {
+      "description": "no description",
+      "message": "All your accounts can now be accessed using Sync."
+   },
+   "mm_user_login_backTo": {
+      "description": "no description",
+      "message": "Back to the Internet"
+   },
+   "mm_user_login_consider": {
+      "description": "no description",
+      "message": "\u003Ca href='https://www.abine.com/maskme/faq/#premium' target='_blank'\u003EHave you thought about a MaskMe subscription?\u003C/a\u003E It is everything you love about MaskMe, but more."
+   },
+   "mm_user_login_emailAddress": {
+      "description": "no description",
+      "message": "Email Address"
+   },
+   "mm_user_login_error": {
+      "description": "no description",
+      "message": "Uh oh! Something doesn't add up.  Please make sure you entered your email address and password correctly."
+   },
+   "mm_user_login_forgotPassword": {
+      "description": "no description",
+      "message": "\u003Ca href='#resetPassword' id='resetPassword'\u003EForgot your password?\u003C/a\u003E"
+   },
+   "mm_user_login_login": {
+      "description": "no description",
+      "message": "Login"
+   },
+   "mm_user_login_noAccount": {
+      "description": "no description",
+      "message": "Don't have an account yet? \u003Ca href='#userRegistration'\u003ERegister for one\u003C/a\u003E"
+   },
+   "mm_user_login_password": {
+      "description": "no description",
+      "message": "Password"
+   },
+   "mm_user_login_pleaseLogin": {
+      "description": "no description",
+      "message": "Please log in again to continue using MaskMe."
+   },
+   "mm_user_login_regUserLogin": {
+      "description": "no description",
+      "message": "Already set up MaskMe on another computer or browser? Go ahead and log in to your existing account"
+   },
+   "mm_user_login_signIn": {
+      "description": "no description",
+      "message": "Sign in to your MaskMe account."
+   },
+   "mm_user_login_takeMe": {
+      "description": "no description",
+      "message": "Take me to MaskMe"
+   },
+   "mm_user_login_upgrade": {
+      "description": "no description",
+      "message": "Privacy Superpowers"
+   },
+   "mm_user_login_weNoticed": {
+      "description": "no description",
+      "message": "We noticed your account information has changed."
+   },
+   "mm_user_login_wohoo": {
+      "description": "no description",
+      "message": "Wahoo! MaskMe is ready to go on this computer."
+   },
+   "mm_user_password_PasswordError": {
+      "description": "no description",
+      "message": "Whoops! Please double check you entered the correct password and try again."
+   },
+   "mm_user_phone_PhoneError": {
+      "description": "no description",
+      "message": "Oops! There was a problem with your phone number.  Please double check that you entered it correctly and try again."
+   },
+   "mm_user_registration_Email": {
+      "description": "no description",
+      "message": "Keep your inbox, but lose the spam."
+   },
+   "mm_user_registration_EmailEmpty": {
+      "description": "no description",
+      "message": "Oh no! Email address can't be empty"
+   },
+   "mm_user_registration_EmailError": {
+      "description": "no description",
+      "message": "Problem with this email address, please make sure you typed it correctly"
+   },
+   "mm_user_registration_EmailTaken": {
+      "description": "no description",
+      "message": "has already been taken! Did you mean to \u003Ca href='#userLogin' id='emailUniqueError'\u003Elog in?\u003C/a\u003E"
+   },
+   "mm_user_registration_Get": {
+      "description": "no description",
+      "message": "In 60 seconds you'll be able to:"
+   },
+   "mm_user_registration_Logins": {
+      "description": "no description",
+      "message": "Sign-up on & Sign-in to websites more privately."
+   },
+   "mm_user_registration_More": {
+      "description": "no description",
+      "message": "Plus a whole lot more!"
+   },
+   "mm_user_registration_PasswordError": {
+      "description": "no description",
+      "message": "Problem with your password, please make sure they match"
+   },
+   "mm_user_registration_clickEmail": {
+      "description": "no description",
+      "message": "Click into an email box:"
+   },
+   "mm_user_registration_clickMask": {
+      "description": "no description",
+      "message": "Pick Masked Email option:"
+   },
+   "mm_user_registration_continue": {
+      "description": "no description",
+      "message": "Finish"
+   },
+   "mm_user_registration_done": {
+      "description": "no description",
+      "message": "You're almost done!"
+   },
+   "mm_user_registration_emailInvalid": {
+      "description": "no description",
+      "message": "That does not look like a valid email address. Try again!"
+   },
+   "mm_user_registration_emailPlaceholder": {
+      "description": "no description",
+      "message": "Primary Email Address"
+   },
+   "mm_user_registration_error": {
+      "description": "no description",
+      "message": "Uh oh! Something doesn't add up.  Please fix the errors below."
+   },
+   "mm_user_registration_featured": {
+      "description": "no description",
+      "message": "We've been featured on:"
+   },
+   "mm_user_registration_haveAccount": {
+      "description": "no description",
+      "message": "Have an account already?"
+   },
+   "mm_user_registration_login": {
+      "description": "no description",
+      "message": "Log in here."
+   },
+   "mm_user_registration_meetMaskMe": {
+      "description": "no description",
+      "message": "Meet MaskMe"
+   },
+   "mm_user_registration_neverBeForced": {
+      "description": "no description",
+      "message": "Put less of your personal info online."
+   },
+   "mm_user_registration_neverShare": {
+      "description": "no description",
+      "message": "We'll never share it without your consent. Ever."
+   },
+   "mm_user_registration_newUser": {
+      "description": "no description",
+      "message": "New User? Let's get you set up."
+   },
+   "mm_user_registration_passwordConfirmationPlaceholder": {
+      "description": "no description",
+      "message": "Confirm Password"
+   },
+   "mm_user_registration_passwordExcellent": {
+      "description": "no description",
+      "message": "EXCELLENT"
+   },
+   "mm_user_registration_passwordGood": {
+      "description": "no description",
+      "message": "GOOD"
+   },
+   "mm_user_registration_passwordHintInvalid": {
+      "description": "no description",
+      "message": "Trust us, setting a password hint is a good thing!"
+   },
+   "mm_user_registration_passwordHintPlaceholder": {
+      "description": "no description",
+      "message": "Password Hint (because we can't help if you forget it)"
+   },
+   "mm_user_registration_passwordOk": {
+      "description": "no description",
+      "message": "OK"
+   },
+   "mm_user_registration_passwordPlaceholder": {
+      "description": "no description",
+      "message": "Create Password"
+   },
+   "mm_user_registration_passwordPopoverContent": {
+      "description": "no description",
+      "message": "\u003Cbr\u003E\u003Cb\u003E\u003Cspan style='color:red;'\u003ENOTE:\u003C/span\u003E You can't recover your data if you forget your password!\u003C/b\u003E"
+   },
+   "mm_user_registration_passwordPopoverTitle": {
+      "description": "no description",
+      "message": "Password Strength:"
+   },
+   "mm_user_registration_passwordRequired": {
+      "description": "no description",
+      "message": "Required"
+   },
+   "mm_user_registration_passwordStrong": {
+      "description": "no description",
+      "message": "STRONG"
+   },
+   "mm_user_registration_passwordWeak": {
+      "description": "no description",
+      "message": "WEAK"
+   },
+   "mm_user_registration_passwordsDoNotMatch": {
+      "description": "no description",
+      "message": "Oh no! Your passwords must match and can't be empty!"
+   },
+   "mm_user_registration_quick": {
+      "description": "no description",
+      "message": "Don't worry. This will be quick."
+   },
+   "mm_user_registration_randomSite": {
+      "description": "no description",
+      "message": "(We'll take you to a random site)"
+   },
+   "mm_user_registration_readMore": {
+      "description": "no description",
+      "message": "Read more"
+   },
+   "mm_user_registration_saveError": {
+      "description": "no description",
+      "message": "Oops! There was a problem registering your account, please make sure you typed everything correctly?"
+   },
+   "mm_user_registration_simple": {
+      "description": "no description",
+      "message": "It's crazy simple."
+   },
+   "mm_user_registration_try": {
+      "description": "no description",
+      "message": "Why not try creating your first Masked Email?"
+   },
+   "mm_user_registration_tryOut": {
+      "description": "no description",
+      "message": "Try It Out (on a real website)"
+   },
+   "mm_user_show_Change": {
+      "description": "no description",
+      "message": "Change"
+   },
+   "mm_user_show_CreditCard": {
+      "description": "no description",
+      "message": "Credit Card:"
+   },
+   "mm_user_show_EmailLabel": {
+      "description": "no description",
+      "message": "Email:"
+   },
+   "mm_user_show_LikeMaskedMailsTryCards": {
+      "description": "no description",
+      "message": "Like Masked Emails? Give Masked Cards a try."
+   },
+   "mm_user_show_LikeMaskedMailsTryPhones": {
+      "description": "no description",
+      "message": "Like Masked Emails? Give Masked Phones a try."
+   },
+   "mm_user_show_ManageYourSub": {
+      "description": "no description",
+      "message": "Manage your MaskMe Subscription"
+   },
+   "mm_user_show_MaskMeSubscription": {
+      "description": "no description",
+      "message": "MaskMe Subscription:"
+   },
+   "mm_user_show_MaskedCardLabel": {
+      "description": "no description",
+      "message": "Your \u003Ca href='#payments'\u003EMasked Cards\u003C/a\u003E charge this credit card."
+   },
+   "mm_user_show_MaskedMails": {
+      "description": "no description",
+      "message": "Your \u003Ca href='#home/emails'\u003EMasked Emails\u003C/a\u003E forward to this address."
+   },
+   "mm_user_show_MaskedPhoneLabel": {
+      "description": "no description",
+      "message": "Your \u003Ca href='#home/phones'\u003E Masked Phone\u003C/a\u003E number is: $1."
+   },
+   "mm_user_show_PasswordLabel": {
+      "description": "no description",
+      "message": "Password:"
+   },
+   "mm_user_show_PhoneLabel": {
+      "description": "no description",
+      "message": "Phone:"
+   },
+   "mm_user_show_SecurelyEncrypt": {
+      "description": "no description",
+      "message": "Used to securely encrypt all your personal data."
+   },
+   "mm_user_show_TimeToSetUp": {
+      "description": "no description",
+      "message": "It's time to get your Masked Phone number set up."
+   },
+   "mm_user_show_TimeToSetUpCard": {
+      "description": "no description",
+      "message": "It's time to activate your Masked Cards feature."
+   },
+   "mm_user_show_Upgrade": {
+      "description": "no description",
+      "message": "Upgrade"
+   },
+   "mm_user_show_subscriptionFree": {
+      "description": "no description",
+      "message": "MaskMe Free"
+   },
+   "mm_user_show_subscriptionOnline": {
+      "description": "no description",
+      "message": "MaskMe Online"
+   },
+   "mm_user_show_subscriptionPremium": {
+      "description": "no description",
+      "message": "MaskMe Premium (Click to manage subscription)"
+   }
+}

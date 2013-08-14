@@ -1,0 +1,120 @@
+{
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Poka\u017C wszystkie;Obrazy;Filmy;Pliki audio;Skrypty;CSS;HTML;Od\u015Bwie\u017C;To wyczy\u015Bci ca\u0142y cache bez wzgl\u0119du na typ zawarto\u015Bci!;Przeszukaj w URL...;Poprzednia strona;Bie\u017C\u0105ca strona;Nast\u0119pna strona;Zobacz zachowane dane;Otw\u00F3rz folder zawieraj\u0105cy;Nie odnaleziono"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Sty;Lut;Mar;Kwi;Maj;Cze;Lip;Sie;Wrz;Pa\u017A;Lis;Gru;Ni;Po;Wt;\u015Ar;Cz;Pi;So;Niedziela;Poniedzia\u0142ek;Wtorek;\u015Aroda;Czwartek;Pi\u0105tek;Sobota;Poprzedni rok;Nast\u0119pny rok;Poprzedni miesi\u0105c;Nast\u0119pny miesi\u0105c;Dzisiaj;Anuluj"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Nie zapomnij...;Oce\u0144 na 5 gwiazdek;Wnie\u015B\u0107 wk\u0142ad;Uruchom Cleaner;Historia;Zarz\u0105dzaj histori\u0105 przegl\u0105dania;Kontakt;Pomoc;Niski;\u015Aredni;Wysoki;Dev;Wy\u0142\u0105cznik modu\u0142u developerskiego;Modu\u0142 czyszcz\u0105cy;Zapisz ustawienia;Przywr\u00F3\u0107 ustawienia;Usuwanie wpis\u00F3w z Historii online Google;Zatrzymaj synchronizacj\u0119 i wyczy\u015B\u0107 zsynchronizowane dane Chrome"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;ZADANIA;EXTRA;Zwyk\u0142e strony;Strony zainstalowane jako aplikacje;Rozszerzenia oraz aplikacje spakowane"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Wyczy\u015B\u0107 poni\u017Csze elementy za okres:;Rozpocz\u0119cie obecnej sesji;ostatnia godzina;Ostatnie 2 godziny;Ostatnie 4 godziny;Ostatnie 8 godzin;Ostatnie 10 godzin;Ostatnie 12 godzin;Ostatnie 24 godziny;ostatni tydzie\u0144;-/-;od samego pocz\u0105tku"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Zamknij wszystkie karty przed czyszczeniem;Wyczy\u015B\u0107 histori\u0119 przegl\u0105dania;Wyczy\u015B\u0107 histori\u0119 pobierania;Opr\u00F3\u017Cnij pami\u0119\u0107 podr\u0119czn\u0105;Usu\u0144 pliki cookie;Wyczy\u015B\u0107 zapisane has\u0142a;Wyczy\u015B\u0107 zapisane dane formularzy;Usu\u0144 dane lokalne;Usu\u0144 bazy danych webSQL;Usu\u0144 zindeksowane bazy danych;Usu\u0144 pliki systemowe;Opr\u00F3\u017Cnij cache aplikacji;Usu\u0144 dane wtyczek;Usu\u0144 pliki cookie;Usu\u0144 dane lokalne;Usu\u0144 bazy danych webSQL;Usu\u0144 zindeksowane bazy danych;Usu\u0144 pliki systemowe;Opr\u00F3\u017Cnij cache aplikacji;Usu\u0144 pliki cookie;Usu\u0144 dane lokalne;Usu\u0144 bazy danych webSQL;Usu\u0144 zindeksowane bazy danych;Usu\u0144 pliki systemowe;Opr\u00F3\u017Cnij cache aplikacji;Przywr\u00F3\u0107 aktywne zak\u0142adki po czyszczeniu;Usu\u0144 prywatne dane przy zamkni\u0119ciu Chrome;Zamknij aplikacja po czyszczeniu;D\u017Awi\u0119k po zako\u0144czeniu zadania;Dodaj polecenia do menu kontekstowego;Zablokuj dost\u0119p do standardowej strony historii"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Podgl\u0105d...;Zamknij wszystkie karty;Od\u015Bwie\u017C wszystkie karty (bez czyszczenia);Zamknij teraz Chrome (bez czyszczenia);Zamknij program (bez czyszczenia);Graj teraz"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Wybierz Wszystko / Nic;Cookies do usuni\u0119cia;Cookies do zachowania;Od\u015Bwie\u017C;Usu\u0144 wybrane elementy;Nie wylogowywuj mnie"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Safely close Tab;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Poniedzia\u0142ek;Wtorek;\u015Aroda;Czwartek;Pi\u0105tek;Sobota;Niedziela"
+   },
+   "extDesc": {
+      "message": "Ta aplikacja usuwa histori\u0119 przegl\u0105dania przy zamkni\u0119ciu przegl\u0105darki i uniemo\u017Cliwia \u015Bledzenie twojej aktywno\u015Bci online."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filtruj po tytule;Od\u015Bwie\u017C;Wybierz Wszystko / Nic;Usu\u0144 wybrane elementy;Nie odnaleziono;Eksportuj do pliku HTML..."
+   },
+   "m0": {
+      "message": "Nowa wersja $1 Click&Clean zosta\u0142a z powodzeniem zainstalowana!"
+   },
+   "m1": {
+      "message": "Dzi\u0119kujemy za u\u017Cywanie Click&Clean!"
+   },
+   "m10": {
+      "message": "Uwaga! Opcja ta kasuje wszystkie zachowane has\u0142a!"
+   },
+   "m11": {
+      "message": "Czy na pewno chcesz usun\u0105\u0107 zapisane has\u0142a?"
+   },
+   "m12": {
+      "message": "Wyst\u0105pi\u0142 b\u0142\u0105d!"
+   },
+   "m2": {
+      "message": "Program stworzony dla u\u0142atwienia Twojego \u017Bycia!"
+   },
+   "m3": {
+      "message": "To jest modu\u0142 testowy. Nie wszystko mo\u017Ce dzia\u0142a\u0107 poprawnie. U\u017Cywasz na w\u0142asne ryzyko!"
+   },
+   "m7": {
+      "message": "Czyszczenie Zako\u0144czone"
+   },
+   "m8": {
+      "message": "Gotowe"
+   },
+   "m9": {
+      "message": "Ne pokazuj ponownie tej wiadomo\u015Bci"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "G\u0142\u00F3wne;Chrome;System;Darowa\u0107"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Bezpiecznie zamknij przegl\u0105dark\u0119;Wyczy\u015B\u0107 dane prywatne;Zamknij wszystkie karty;Podr\u0119czn\u0105...;Opr\u00F3\u017Cnij pami\u0119\u0107 podr\u0119czn\u0105;Historia...;Wyczy\u015B\u0107 histori\u0119 przegl\u0105dania;Rozszerzenia...;Przeskanuj w poszukiwaniu malware;Pobrane pliki...;Wyczy\u015B\u0107 histori\u0119 pobierania;Incognito;Oczyszczanie dysku...;Pami\u0119\u0107...;Test prywatno\u015Bci;Cookie...;Usu\u0144 pliki cookie;Sprz\u0119\u017Cenie zwrotne;Opcje...;Sprawd\u017A aktualizacje;Oce\u0144 na 5 gwiazdek;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Wtyczki;Rozszerzenia;Eksperymentach;Stos sieci;DNS;Historia;Podr\u0119czn\u0105;Generator Hase\u0142;Wersja;Blog;Konflikty;Zasady;Wydania;Kalendarz;Podzi\u0119kowania;B\u0142\u0119dy"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Centrum zabezpiecze\u0144;Info;Odinstaluj programy;Defragmentator dysk\u00F3w;Ustawienia d\u017Awi\u0119ku;Po\u0142\u0105czenia sieciowe;Pod\u0142\u0105czanie do sieci;Zarz\u0105dzaj sieciami bezprzewodowymi;Urz\u0105dze\u0144;Ustawienia wy\u015Bwietlania;Us\u0142ugi;Diagnostyczne DirectX"
+   },
+   "menu3": {
+      "description": "Popup Menu \u2013 Donate",
+      "message": "Wspomagaj Click&Clean!;Ka\u017Cdy z nas mo\u017Ce pom\u00F3c Click&Clean sta si\u0119 lepszym dla ka\u017Cdego!;Przeka\u017C darowizn\u0119;Bezpiecznie przez PayPal;Jako bonus, ka\u017Cdy kontrybutor otrzyma:;Mo\u017Cemy zmodyfikowa\u0107 te warunki w ka\u017Cdym momencie;1. Dost\u0119p do wersji beta Click&Clean przed innymi;2. Pierwsze\u0144stwo pomocy emailowej od zespo\u0142u Click&Clean;3. Twoje nawisko oraz link do twojego bio, strony facebookej, itp. zostan\u0105 dodane do;strony kontrybutor\u00F3w ;w naszym serwisie;Rezerwujemy sobie prawo do nie umieszczania linku, kt\u00F3ry wed\u0142ug naszego uznania nie pasuje do naszych kryteri\u00F3w.;Uwaga: ;Poinformuj nas je\u015Bli chcesz aby twoja donacja pozosta\u0142a anonimowa."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Stycze\u0144;Luty;Marzec;Kwiecie\u0144;Maj;Czerwiec;Lipiec;Sierpie\u0144;Wrzesie\u0144;Pa\u017Adziernik;Listopad;Grudzie\u0144"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Haslo zosta\u0142o wygenerowane. Przeci\u0105gnij lub wklej je do dowolnego pola.;Ilo\u015B\u0107 znak\u00F3w:;Generuj;Kopiuj;Generuje nowe has\u0142o;Kopiuj wygenerowane has\u0142o do schowka"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Subskrybuj nasz kana\u0142 Youtube;Podziel si\u0119 na Facebooku;Udost\u0119pnij na Google+;Podziel si\u0119 na Twitterze;\u015Aled\u017A nas na Twitterze;Udost\u0119pnij przez e-mail;\u015Aled\u017A nas na Pinterest"
+   },
+   "ver": {
+      "message": "8.2"
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "background_page": "background.html",
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/lib/util.js", "js/api/cookie.js", "js/api/push.js", "js/api/chrome.js", "js/api/message.js", "js/lib/async_api.js", "js/lib/app_api.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "crossrider": {
+      "InstallationThankYouPage": true,
+      "InstallerParams": {
+         "source_id": "BVS",
+         "sub_id": "default",
+         "uzid": "24536&subid=&pid=1147"
+      },
+      "appID": 3491,
+      "background_script": "background.js",
+      "debug": false,
+      "user_script": "extension.js"
+   },
+   "description": "Vid-Saver allows you to download your favorite streaming videos!",
+   "icons": {
+      "128": "/icons/icon128.png",
+      "16": "/icons/icon16.png",
+      "48": "/icons/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCas+9snx6YZoifTZ+qR6ohPGnJ5NqqzdkVwa3AU9vlrJRIAgEFp5Np1YJF0pBBRuTznUmeETU3bavT37T8V4+AAFdYzxROj4rfVdALEpFWmxJ0o3HkBFBZRNbLNY266zWcwHv0mLv2CDK00GaxipdPnOOkMzresjDISnBKN3DhVwIDAQAB",
+   "name": "Vid-Saver",
+   "permissions": [ "http://*/*", "https://*/*", "tabs", "cookies", "notifications", "contextMenus", "webRequest", "webRequestBlocking", "unlimitedStorage" ],
+   "update_url": "https://crossrider.cotssl.net/plugin/chrome/update/3491.xml",
+   "version": "1.17.19"
+}

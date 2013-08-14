@@ -1,0 +1,90 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>config</title>
+    <link href="static/style1.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="main">
+<h2><fy id="headers">可修改的请求头</fy>
+<a id="items_add" class="go"><fy id="add">ADD</fy>...</a> </h2>
+<ul class="menuul" id="items"></ul>
+<hr>
+<div id="details_placeholder" class="bignote"><fy id="guider1">Choose a header above to get more options...</fy></div>
+<div id="details1">
+    <h2 id="current_header"><fy id="header_detailed_options">header_detailed_options</fy></h2>
+    <tab_frame>
+	<tabs id="tab1">
+    <tablabel parent="details1" data="tab1_1" class=""><fy id="General">General</fy></tablabel>
+    <tablabel parent="details1" data="tab1_2" class="with_notice"><fy id="presets">Presets</fy><span class="notice"><fy id="tips4">Set values for the popup panel</fy></span></tablabel>
+    <tablabel parent="details1" data="tab1_3" class="with_notice"><fy id="specialprofile">Automatic Profile</fy><span class="notice"><fy id="tips3">Set value for this HTTP header<br>Automatically!<br>(please choose -AUTO- on popup panel)</fy></span></tablabel>
+    </tabs>
+    <div id="tab1_1">
+    <label><fy id="HeaderName">Header Name</fy><input type="text" id="name1" placeholder="Header Name"></label><br>
+    <label><fy id="description">description</fy><input type="text" size="40" placeholder="description" id="descript"></label><br>
+    <p><a id="items_remove"><img src="x.gif"><fy id="delete_this_header">delete_this_header</fy> <span class="small"><fy id="no_confirm">no_confirm</fy></span> &raquo; </a></p>
+    <p class="bignote"><fy id="tips6"></fy></p>
+    </div>
+    <div id="tab1_2">
+    <label><fy id="presets">presets</fy><br><textarea rows="8" wrap="off" id="data" style="width:100%"></textarea></label>
+    <div class="msg" id="tip2"><fy id="tips2">一行一个，格式可以直接为<span class='x'>所需值</span>或者<span class='x'>名称=所需值</span></fy>. (Likes INI file, right?)</div><br>
+	</div>
+    <div id="tab1_3">
+        <table width="100%" border="0"><tr>
+    <td width="1" valign="top">
+    <input type="button" value="添加" id="l2_add" fy="add">
+    <input type="button" value="删除" id="l2_del" fy="remove">
+    <select size="14" style="width:130px" id="items_auto">
+    </select></td>
+    <td id="tts2" style="font-size:20px;display:none;"><div class="bignote"><fy id="guider1_left">← Choose a profile to edit.</fy></div></td>
+    <td id="tts1" valign="top">
+    <label><fy id="name">name</fy><input type="text" id="name2"></label><br>
+    <label for="value2"><fy id="value">value</fy></label><span id="value2_jar">
+    <input type="text" id="value2">
+    <div id="value2_com">
+    <div style="margin:5px"><fy id='vfpresets' style="color:#999;font-size:14px">Use values from Presets</fy><div id="pres1"></div></div>
+    </div>
+    </span>
+    <br>
+    <fy id='condition'>condition</fy>
+    <input type="button" value="添加" id="l3_add" fy="add">
+    <div id="x_sample_1" style="display:none"><select name="autorule_a">
+      <option value="url">URL</option>
+      <option value="referer">Referer</option>
+    </select><select name="autorule_b">
+      <option value="equal">==</option>
+      <option value="iequal">==(CI)</option>
+      <option value="include"> include </option>
+      <option value="iinclude"> include (CI)</option>
+      <option value="regex">.match(regex)</option>
+      <option value="!equal">NOT ==</option>
+      <option value="!iequal">NOT ==(CI)</option>
+      <option value="!include">NOT include </option>
+      <option value="!iinclude">NOT include (CI)</option>
+      <option value="!regex">NOT .match(regex)</option>
+    </select><input name="autorule_c" size="40">
+    <input type="button" value="删除" name="autorule_del" fy="remove">
+    <span class="with_notice"><span class="notice"><fy id="enablethiscondition">Enable This Condition</fy>?</span><input name="autorule_d" type="checkbox" value="yes" checked></span></div>
+    <ol id="rr1"></ol>(CI=<fy id='caseinsenstive'>caseinsenstive</fy>)
+    </td></tR></table>
+	</div>
+    </tab_frame>
+</div>
+</div>
+<div id="savebtnareaagent" style="display:block">&nbsp;</div>
+<div class="main fixedbottom" id="savebtnarea" align="center">
+<a class="go bg1" id="savebtn"> :: <fy id="save">Save</fy> :: </a>
+<p class="small">
+<a href="about.html" target="xconfig_for_laobubu_c1a"><fy id="aboutme">About Me</fy></a>
+<a href="help.html" target="xconfig_for_laobubu_c1h"><fy id="help">HELP</fy></a>
+<a href="advcfg.html#raw" target="advcfg"><fy id="master">Master Mode</fy>(Import&amp;Export)</a>
+<a href="advcfg.html#regextest" target="advcfg"><fy id="regex">Regex Test</fy></a>
+<a href="http://whatheaders.com/" target="_blank">whatheaders.com</a>
+<a href="http://laobubu.net/" target="_blank">laobubu.net</a>
+<a href="options2.html" style="display:none"><fy id="guider">Guide Config.</fy></a>
+</p>
+</div>
+<script language="javascript" src="translate.js"></script>
+<script language="javascript" src="config.js"></script>
+</body>
+</html>

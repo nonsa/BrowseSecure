@@ -1,0 +1,120 @@
+{
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Exibir todas;Imagens;Videos;\u00C1udios;Scripts;CSS;HTML;Atualizar;Isso limpa todo o cache, independentemente do tipo de conte\u00FAdo escolhido! ;Procurar no URL...;P\u00E1gina anterior;P\u00E1gina atual;Pr\u00F3xima p\u00E1gina;Ver dados em cache;Abrir pasta do arquivo;N\u00E3o encontrado"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Jan;Fev;Mar;Abr;Mai;Jun;Jul;Ago;Set;Out;Nov;Dez;Do;Se;Te;Qua;Qui;Se;S\u00E1;Domingo;Segunda-feira;Ter\u00E7a-feira;Quarta-feira;Quinta-feira;Sexta-feira;S\u00E1bado;Ano Anterior;Pr\u00F3ximo Ano;M\u00EAs Anterior;M\u00EAs Seguinte;Hoje;Cancelar"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "N\u00E3o esque\u00E7a de...;Avalie 5 Estrelas;Doar;Executar Limpeza;Hist\u00F3rico;Gerir Hist\u00F3rico de Navega\u00E7\u00E3o;Suporte;Ajuda;Baixo;M\u00E9dio;Alto;Dev;Ligar/Desligar Modo Desenvolvedor;Modo Limpeza;Defini\u00E7\u00F5es de C\u00F3pia de Seguran\u00E7a;Restaurar defini\u00E7\u00F5es;Remover itens do Hist\u00F3rico da Web do Google;Parar sincroniza\u00E7\u00E3o e limpar todos os dados sincronizados do Google Chrome"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;A\u00C7\u00D5ES;EXTRA;Websites Normais;Websites que foram instalados como aplicativos hospedados;Extens\u00F5es e aplicativos em pacote"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Eliminar os seguintes itens desde:;o princ\u00EDpio da sess\u00E3o atual;a \u00FAltima hora;as \u00FAltimas duas horas;as \u00FAltimas 4 horas;as \u00FAltimas 8 horas;as \u00FAltimas 10 horas;as \u00FAltimas 12 horas;as \u00FAltimas 24 horas;a \u00FAltima semana;-/-;desde o come\u00E7o"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Fechar todas as guias antes da limpeza;Limpar dados de navega\u00E7\u00E3o;Limpar hist\u00F3rico de download;Esvaziar o cache;Excluir cookies;Apagar senhas salvas;Limpar dados de formul\u00E1rio salvos;Apagar armazenamento local;Apagar bases de dados WebSQL;Apagar bases de dados indexadas;Apagar sistemas de arquivos;Esvaziar cache de aplicativos;Excluir dados de plug-in;Excluir cookies;Apagar armazenamento local;Apagar bases de dados WebSQL;Apagar bases de dados indexadas;Apagar sistemas de arquivos;Esvaziar cache de aplicativos;Excluir cookies;Apagar armazenamento local;Apagar bases de dados WebSQL;Apagar bases de dados indexadas;Apagar sistemas de arquivos;Esvaziar cache de aplicativos;Carregar guias ativas depois da limpeza;Apagar dados privados quando o Chrome fechar;Fechar o aplicativo ap\u00F3s a limpeza;Tocar som quando o trabalho acabar;Adicionar comandos ao menu de contexto;Impedir acesso \u00E0 p\u00E1gina de hist\u00F3rico de defeito"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Exibir...;Fechar todas as guias;Recarregar todas as guias (sem limpeza);Feche o Chrome (sem limpeza);Feche o Aplicativo (sem limpeza);Executar agora"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Selecionar Tudo / Nenhum;Cookies a serem removidos;Cookies a serem mantidos;Atualizar;Remover itens selecionados;Manter-me autenticado"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Safely close Tab;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Segunda-feira;Ter\u00E7a-feira;Quarta-feira;Quinta-feira;Sexta-feira;S\u00E1bado;Domingo"
+   },
+   "extDesc": {
+      "message": "Este aplicativo apaga seu hist\u00F3rico de navega\u00E7\u00E3o quando o navegador fechar e impede o rastreamento de sua atividade on-line."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filtrar por t\u00EDtulo;Atualizar;Selecionar Tudo / Nenhum;Remover itens selecionados;N\u00E3o encontrado;Exportar como HTML..."
+   },
+   "m0": {
+      "message": "A nova vers\u00E3o $1 do Click&Clean foi instalada com sucesso!"
+   },
+   "m1": {
+      "message": "Obrigado por usar o Click&Clean!"
+   },
+   "m10": {
+      "message": "Aviso! Se voc\u00EA selecionar esta op\u00E7\u00E3o, qualquer palavra-passe guardada ser\u00E1 apagada."
+   },
+   "m11": {
+      "message": "Tem certeza que deseja excluir senhas salvas?"
+   },
+   "m12": {
+      "message": "Ocorreu um erro!"
+   },
+   "m2": {
+      "message": "Programa para Tornar a Sua Vida Melhor!"
+   },
+   "m3": {
+      "message": "Isto \u00E9 o modo experimental. Nem todas as caracter\u00EDsticas ir\u00E3o funcionar como esperado. Use isto \u00E0 sua responsabilidade!"
+   },
+   "m7": {
+      "message": "Limpeza Conclu\u00EDda"
+   },
+   "m8": {
+      "message": "Pronto"
+   },
+   "m9": {
+      "message": "N\u00E3o mostrar essa mensagem novamente"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Principal;Chrome;Sistema;Doar"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Fechar o navegador com seguran\u00E7a;Limpar dados pessoais;Fechar todas as guias;Cache...;Esvaziar o cache;Hist\u00F3rico...;Limpar dados de navega\u00E7\u00E3o;Extens\u00F5es...;Procurar software malicioso;Downloads...;Limpar hist\u00F3rico de download;Navega\u00E7\u00E3o an\u00F4nima;Limpeza de disco...;Mem\u00F3ria...;Teste de Privacidade;Cookies...;Excluir cookies;Suporte;Op\u00E7\u00F5es...;Procurar por atualiza\u00E7\u00F5es;Avalie 5 Estrelas;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plug-ins;Extens\u00F5es;Experimentos;Stack Rede;DNS;Hist\u00F3rico;Cache;Gerador de Senhas;Vers\u00E3o;Blog;Conflitos;Pol\u00EDticas;Lan\u00E7amentos;Calend\u00E1rio;Cr\u00E9ditos;Erros"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Centro de Seguran\u00E7a;Info;Desinstalar programas;Desfragmentador;Defini\u00E7\u00F5es de Som;Conex\u00F5es de Rede;Conectar a uma rede;Gerenciar redes sem fio;Dispositivos;Configura\u00E7\u00F5es de exibi\u00E7\u00E3o;Servi\u00E7os;Diagn\u00F3stico do DirectX"
+   },
+   "menu3": {
+      "description": "Popup Menu \u2013 Donate",
+      "message": "Apoie Click&Clean;Cada um de n\u00F3s pode contribuir para tornar o Click&Clean melhor para todos!;Doar;Com Seguran\u00E7a via PayPal;Como b\u00F3nus cada Contribuidor receber\u00E1:;Podemos modificar estes termos em qualquer altura.;1. Acesso a uma vers\u00E3o beta do Click&Clean antes de qualquer outra pessoa.;2. Prioridade no suporte via email dado pela equipe do Click&Clean;3. O seu nome completo e uma liga\u00E7\u00E3o para os seus dados biogr\u00E1ficos, blog, p\u00E1gina do facebook, etc ser\u00E3o acrescentados \u00E0 p\u00E1gina;de apoiantes ;no website.;Reservamo-nos o direito de n\u00E3o publicar uma liga\u00E7\u00E3o para os seus dados biogr\u00E1ficos, blog, etc, se, de acordo com a nossa opini\u00E3o, n\u00E3o estiverem de acordo com os nossos crit\u00E9rios.;Nota: ;Por favor diga-nos se deseja que o seu donativo permane\u00E7a an\u00F3nimo.'"
+   },
+   "months": {
+      "description": "Months",
+      "message": "Janeiro;Fevereiro;Mar\u00E7o;Abril;Maio;Junho;Julho;Agosto;Setembro;Outubro;Novembro;Dezembro"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "A Senha foi gerada. Arraste-a para qualquer campo.;N\u00FAmero de caracteres:;Gerar;Copiar;Gera uma nova senha;Manter-me autenticado"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Assine o nosso canal no Youtube;Compartilhe no Facebook;Compartilhar no Google+;Compartilhar no Twitter;Siga-nos no Twitter;Enviar por e-mail;Siga-nos no Pinterest"
+   },
+   "ver": {
+      "message": "8.2"
+   }
+}

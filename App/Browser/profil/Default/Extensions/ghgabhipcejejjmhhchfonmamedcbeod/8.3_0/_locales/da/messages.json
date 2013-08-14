@@ -1,0 +1,120 @@
+{
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Alle varer;Billeder;Videoer;Lyd;Scripts;CSS;HTML;Opdater;Dette sletter hele cachen uanset vagte indholds type!;S\u00F8g I URL...;Forrige side;Aktuel side;N\u00E6ste side;Se cached data;\u00C5ben indenholdende mappe;Ingen fundet"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Jan;Feb;Mar;Apr;Maj;Jun;Jul;Aug;Sep;Okt;Nov;Dec;S\u00F8;Ma;Ti;On;To;Fr;L\u00F8;S\u00F8ndag;Mandag;Tirsdag;Onsdag;Torsdag;Fredag;L\u00F8rdag;Sidste \u00E5r;N\u00E6ste \u00E5r;Sidste m\u00E5ned;N\u00E6ste m\u00E5ned;I dag;Annuller"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Glem ikke...;Giv 5 stjerner;Doner;K\u00F8r Rens;Historik;Administrer browserdata;Support;Hj\u00E6lp;Lav;Mellem;H\u00F8j;Dev;T\u00E6nd/Sluk udvikler tilstand ;Reng\u00F8ring tilstand;Sikkerhedskopiere indstillinger...;Gendan indstillinger...;Fjern elementer fra din Google Webhistorik;Stop synkroniseringen, og slet alle synkroniserede Chrome-data"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;HANDLINGER;EXTRA;Normal hjemmeside;Hjemmesider, der er installeret som hostede applikationer;Udvidelser og emballerede applikationer"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Ryd disse elementer fra:;Begyndelsen af nuv\u00E6rende session;seneste time;De sidste 2 timer;De sidste 4 timer;De sidste 8 timer;De sidste 10 timer;De sidste 12 timer;De sidste 24 timer;seneste uge;-/-;altid"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Luk alle taps f\u00F8r du renser;Ryd browserhistorik;Ryd downloadhistorik;T\u00F8m cache;Slet cookies;Ryd gemte adgangskoder;Slet gemte formulardata;Slet lokal lagring;Slet webSQL databaser;Slet indekseret databaser;Slet fil systemer;Tomme applications cache;Slet plug-in-data;Slet cookies;Slet lokal lagring;Slet webSQL databaser;Slet indekseret databaser;Slet fil systemer;Tomme applications cache;Slet cookies;Slet lokal lagring;Slet webSQL databaser;Slet indekseret databaser;Slet fil systemer;Tomme applications cache;Genindl\u00E6s aktiv tabs efter rens;Slet private data n\u00E5r Chrome lukkes;Luk App efter rensning;Afspil lyd n\u00E5r opgaven er f\u00E6rdig;Tilf\u00F8j kommandoer til kontekst menuen;Forhindre adgang til den standarde historie side"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Vis...;Luk alle faneblade;Genindl\u00E6s alle faneblade (uden rensning);Luk Chrome (uden rensning);Luk App (uden rensning);Afspil nu"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "V\u00E6lg alle / V\u00E6lg ingen;Cookies som slettes;Cookies som beholdes;Opdater;Fjern valgte elementer;Forbliv logget ind"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Safely close Tab;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Mandag;Tirsdag;Onsdag;Torsdag;Fredag;L\u00F8rdag;S\u00F8ndag"
+   },
+   "extDesc": {
+      "message": "Denne app sletter din browserhistorik, n\u00E5r browseren lukkes og forhindrer sporing af din on-line aktivitet."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filtrer efter titel;Opdater;V\u00E6lg alle / V\u00E6lg ingen;Fjern valgte elementer;Ingen fundet;Eksporter som HTML..."
+   },
+   "m0": {
+      "message": "Den nye Click & Clean version $ 1 er blevet installeret korrekt!"
+   },
+   "m1": {
+      "message": "Tak for at du bruger Click&Clean!"
+   },
+   "m10": {
+      "message": "Advarsel! Hvis du v\u00E6lger denne mulighed, vil eventuelle gemte adgangskoder slettes."
+   },
+   "m11": {
+      "message": "Er du sikker p\u00E5, du vil slette gemte adgangskoder?"
+   },
+   "m12": {
+      "message": "Der er opst\u00E5et en fejl!"
+   },
+   "m2": {
+      "message": "Software Lavet til at g\u00F8re dit liv bedre!"
+   },
+   "m3": {
+      "message": "Dette er eksperimentelt tilstand. Ikke alle funktioner kan virke som forventet. Brug den p\u00E5 egen risiko!"
+   },
+   "m7": {
+      "message": "Rensning F\u00E6rdig"
+   },
+   "m8": {
+      "message": "F\u00E6rdig"
+   },
+   "m9": {
+      "message": "Vis mig ikke denne besked igen"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Hovedmenu;Chrome;System;Doner"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Luk browser sikkert;Fjern private oplysninger;Luk alle faneblade;Cache...;T\u00F8m cache;Historik...;Ryd browserhistorik;Udvidelser...;Scan efter Malware...;Downloads...;Ryd downloadhistorik;Inkognitotilstand;Diskoprydning...;Hukommelse...;Beskyttelse af personlige oplysninger test;Cookies...;Slet cookies;Support;Valg...;Led efter opdateringer;Giv 5 stjerner;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plugins;Udvidelser;Eksperimenter;Netv\u00E6rks Stakken;DNS;Historik;Cache;Kodeordsgenerator;Version;Blog;Konflikter;Politikker;Udgivelser;Kalender;Credits;Fejl"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Sikkerhedscenter;Info;Afinstaller programmer;Diskdefragmentering;Lydindstillinger;Netv\u00E6rksforbindelser;Tilslutning til et netv\u00E6rk;Administration af tr\u00E5dl\u00F8se netv\u00E6rk;Enheder;Sk\u00E6rmindstillinger;Tjenester;DirectX Diagnostic"
+   },
+   "menu3": {
+      "description": "Popup Menu \u2013 Donate",
+      "message": "Support Click&Clean!;Hver enkelt af os kan bidrage til at g\u00F8re Click&Clean bedre for alle!;Doner;Sikkert via PayPal;Som en bonus, vil hver bidragyder modtage:;Vi kan \u00E6ndre disse vilk\u00E5r n\u00E5r som helst.;1. Adgang til en betaversion af Click&Clean f\u00F8r alle andre.;2. Prioritet p\u00E5 at f\u00E5 st\u00F8tte via e-mail fra Click&Clean teamet.;3. Dit fulde navn og et link til din bio, blog, facebook side osv. vil blive f\u00F8jet til;supporternes ;side p\u00E5 hjemmesiden.;Vi forbeholder os ret til ikke at placere et link til din bio, blog, osv., som efter vores eget sk\u00F8n, ikke stemmer overens med vores kriterier.;Bem\u00E6rk: ;Lad os vide, hvis du \u00F8nsker din donation til at forblive anonym."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Januar;Februar;Marts;April;Maj;Juni;Juli;August;September;Oktober;November;December"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Kodeordet en dennet. Tr\u00E6k eller kopier det til det \u00F8nskede felt.;Antal tegn: ;Gener\u00E9r;Kopier;Gener\u00E9r nyt kodeord;Kopier det genererede kodeord til udklipsholder"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Abonn\u00E9r p\u00E5 vores YouTube-kanal;Del p\u00E5 Facebook;Del p\u00E5 Google+;Del p\u00E5 Twitter;F\u00F8lg os p\u00E5 Twitter;Del via E-mail;F\u00F8lg os p\u00E5 Pinterest"
+   },
+   "ver": {
+      "message": "8.2"
+   }
+}
