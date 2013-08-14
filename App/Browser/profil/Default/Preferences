@@ -14,11 +14,11 @@
       "last_prompted_google_url": "https://www.google.de/",
       "pepper_flash_settings_enabled": true,
       "window_placement": {
-         "bottom": 797,
-         "left": 469,
+         "bottom": 760,
+         "left": 555,
          "maximized": true,
-         "right": 1527,
-         "top": 127,
+         "right": 1613,
+         "top": 90,
          "work_area_bottom": 1010,
          "work_area_left": 0,
          "work_area_right": 1680,
@@ -45,8 +45,8 @@
       "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client=chrome&q={searchTerms}&{google:cursorPosition}sugkey={google:suggestAPIKeyParameter}"
    },
    "dns_prefetching": {
-      "host_referral_list": [ 2, [ "http://www.hotcleaner.com/", [ "http://pagead2.googlesyndication.com/", 1.7786296472719598, "http://www.google-analytics.com/", 1.7786296472719598, "http://www.hotcleaner.com/", 1.7786296472719598 ] ] ],
-      "startup_list": [ 1, "https://mapping.abine.com/", "https://www.google.com/" ]
+      "host_referral_list": [ 2, [ "http://maxdome.de/", [ "http://www.maxdome.de/", 2.2733802 ] ], [ "http://www.hotcleaner.com/", [ "http://pagead2.googlesyndication.com/", 1.678796127231361, "http://www.google-analytics.com/", 1.678796127231361, "http://www.hotcleaner.com/", 1.678796127231361 ] ], [ "http://www.maxdome.de/", [ "http://code.etracker.com/", 1.8307511319999998, "http://maxdome.ivwbox.de/", 2.2733802, "http://maxdome01.webtrekk.net/", 2.2733802, "http://service.maxymiser.net/", 1.8307511319999998, "http://static.maxdome.de/", 4.347791055999999, "http://t13.intelliad.de/", 1.8307511319999998, "http://www.google-analytics.com/", 1.8307511319999998, "http://www.maxdome.de/", 3.9051619879999997 ] ], [ "https://2542116.fls.doubleclick.net/", [ "https://ad.yieldmanager.com/", 2.6037003999999997, "https://conversion-pixel.invitemedia.com/", 2.2733802, "https://googleads.g.doubleclick.net/", 2.11835406336596, "https://segment-pixel.invitemedia.com/", 2.2733802, "https://www.google.com/", 2.11835406336596, "https://www.google.fr/", 2.6037003999999997, "https://www.google.ro/", 1.4577136633659602, "https://www.googleadservices.com/", 2.6604788127439196 ] ], [ "https://apis.google.com/", [ "https://apis.google.com/", 2.4444381723784008, "https://ssl.gstatic.com/", 1.5042157671994936 ] ], [ "https://chrome.google.com/", [ "https://2542116.fls.doubleclick.net/", 0.9620910178215337, "https://apis.google.com/", 1.762522420410987, "https://chrome.google.com/", 1.9023134230004406, "https://fls.doubleclick.net/", 1.2924112178215335, "https://fonts.googleapis.com/", 1.2924112178215335, "https://ssl.google-analytics.com/", 1.762522420410987, "https://ssl.gstatic.com/", 1.2924112178215335, "https://www.google.com/", 1.762522420410987 ] ], [ "https://www.abine.com/", [ "https://ajax.googleapis.com/", 2.2733802, "https://d1p4fa0g2cgyhv.cloudfront.net/", 5.576582199999999, "https://www.abine.com/", 2.6037003999999997 ] ], [ "https://www.youtube.com/", [ "https://i1.ytimg.com/", 2.850489033518, "https://s.ytimg.com/", 3.8132369852359993 ] ] ],
+      "startup_list": [ 1, "https://2542116.fls.doubleclick.net/", "https://apis.google.com/", "https://chrome.google.com/", "https://fls.doubleclick.net/", "https://fonts.googleapis.com/", "https://mapping.abine.com/", "https://ssl.google-analytics.com/", "https://ssl.gstatic.com/", "https://www.google.com/", "https://www.googleadservices.com/" ]
    },
    "download": {
       "directory_upgrade": true
@@ -54,7 +54,7 @@
    "extensions": {
       "autoupdate": {
          "last_check": "13020887568383076",
-         "next_check": "13020950858033954"
+         "next_check": "13020970658179144"
       },
       "blacklistupdate": {
          "lastpingday": "13020851136061570",
@@ -879,6 +879,56 @@
          "eopmhecjnginkckggjmhombbopmkjpam": {
             "blacklist": true
          },
+         "epanfjkfahimkgomnigadpkobaefekcd": {
+            "active_permissions": {
+               "api": [ "cookies", "tabs", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "cookies", "tabs", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "incognito": true,
+            "install_time": "13020961192550877",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "page": "webkit/chrome/background.html"
+               },
+               "browser_action": {
+                  "default_icon": "Icon.png",
+                  "default_title": "DoNotTrackMe"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "chrome/content/common.js", "webkit/common.js", "webkit/chrome/content.js", "webkit/inpage.js", "chrome/content/events.js", "chrome/content/socialButtons.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               } ],
+               "current_locale": "de",
+               "default_locale": "en",
+               "description": "Stoppen Sie die geheime Aufzeichnung Ihres Surfverhaltens",
+               "icons": {
+                  "128": "Icon-128.png",
+                  "16": "Icon-16.png",
+                  "48": "Icon-48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZ1YcwVaEuDiAEIXikSOHsko3mhhI8roIunPTk6ibIgGGXMOgyWOle5a5O7g/0Bsmmo3cGkfDx/AXBYjHhLAR5R78Vda5j14y1cJadxKRzbQtR+ZzEGYleOYXz0Zk0LN97mlnog74ydS2GKe2ve4+6r49FX/RbhnalDII2Xz4/hwIDAQAB",
+               "manifest_version": 2,
+               "name": "DoNotTrackMe",
+               "permissions": [ "webRequest", "webRequestBlocking", "tabs", "cookies", "\u003Call_urls\u003E" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "2.2.9.620"
+            },
+            "path": "epanfjkfahimkgomnigadpkobaefekcd\\2.2.9.620_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
          "epbmnbdplhcomkedpjfceakddnbgfjmf": {
             "blacklist": true
          },
@@ -1061,6 +1111,7 @@
                "explicit_host": [ "chrome://favicon/*", "http://*/*", "https://*/*" ],
                "scriptable_host": [ "*://*.hotcleaner.com/cache-viewer.html", "*://*.hotcleaner.com/clear-browsing-history.html", "*://*.hotcleaner.com/cookie-wiper.html" ]
             },
+            "incognito": true,
             "install_time": "13020950148667552",
             "location": 1,
             "manifest": {
@@ -2588,7 +2639,7 @@
             "was_installed_by_default": false
          }
       },
-      "toolbar": [ "dpplabbmogkhghncfbfdeeokoefdjegm", "mlomiejdfkolichcflejclcbmpeaniij", "ppmibgfeefcglejjlpeihfdimbkfbbnm", "dpkiidbpeijnaaacjlfnijncdlkicejg", "ghgabhipcejejjmhhchfonmamedcbeod" ],
+      "toolbar": [ "dpplabbmogkhghncfbfdeeokoefdjegm", "mlomiejdfkolichcflejclcbmpeaniij", "ppmibgfeefcglejjlpeihfdimbkfbbnm", "dpkiidbpeijnaaacjlfnijncdlkicejg", "ghgabhipcejejjmhhchfonmamedcbeod", "epanfjkfahimkgomnigadpkobaefekcd" ],
       "toolbarsize": -1
    },
    "net": {
@@ -2596,10 +2647,11 @@
          "servers": {
             "2542116.fls.doubleclick.net:443": {
                "settings": {
-                  "5": 32,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "accounts.google.com:443": {
                "settings": {
@@ -2608,103 +2660,215 @@
                },
                "supports_spdy": false
             },
+            "ajax.googleapis.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "apis.google.com:443": {
                "settings": {
-                  "5": 42,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
+            },
+            "chrome.google.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
             },
             "clients1.google.com:443": {
                "settings": {
-                  "5": 32,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "clients2.google.com:443": {
                "settings": {
-                  "5": 32,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
                "settings": {
-                  "5": 197,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "csi.gstatic.com:443": {
                "settings": {
-                  "5": 32,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "fls.doubleclick.net:443": {
                "settings": {
+                  "4": 100,
+                  "5": 10,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "fonts.googleapis.com:443": {
+               "settings": {
+                  "4": 100,
                   "5": 32,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "googleads.g.doubleclick.net:443": {
                "settings": {
+                  "4": 100,
+                  "5": 10,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "i.ytimg.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 10,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "i1.ytimg.com:443": {
+               "settings": {
+                  "4": 100,
                   "5": 32,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "lh3.googleusercontent.com:443": {
                "settings": {
-                  "5": 44,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "lh4.googleusercontent.com:443": {
                "settings": {
-                  "5": 32,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "lh5.googleusercontent.com:443": {
                "settings": {
-                  "5": 47,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "lh6.googleusercontent.com:443": {
                "settings": {
-                  "5": 36,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
             "plus.google.com:443": {
                "settings": {
-                  "5": 34,
+                  "4": 100,
+                  "5": 10,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
-            "www.google.com:443": {
+            "s.ytimg.com:443": {
                "settings": {
-                  "5": 51,
+                  "4": 100,
+                  "5": 147,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
             },
-            "www.googleadservices.com:443": {
+            "ssl.google-analytics.com:443": {
                "settings": {
+                  "4": 100,
+                  "5": 10,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "ssl.gstatic.com:443": {
+               "settings": {
+                  "4": 100,
                   "5": 32,
                   "6": 0
                },
-               "supports_spdy": false
+               "supports_spdy": true
+            },
+            "themes.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.google.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 10,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.google.fr:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "www.google.ro:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.googleadservices.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 10,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.gstatic.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.youtube.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             }
          },
          "version": 1
@@ -2717,12 +2881,12 @@
    "plugins": {
       "enabled_internal_pdf3": true,
       "enabled_nacl": true,
-      "last_internal_directory": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\App\\Browser\\Chrome",
+      "last_internal_directory": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\BrowseSecure\\App\\Browser\\Chrome",
       "migrated_to_pepper_flash": true,
       "plugins_list": [ {
          "enabled": true,
          "name": "Shockwave Flash",
-         "path": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\App\\Browser\\Chrome\\PepperFlash\\pepflashplayer.dll",
+         "path": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\BrowseSecure\\App\\Browser\\Chrome\\PepperFlash\\pepflashplayer.dll",
          "version": "11.7.700.203"
       }, {
          "enabled": true,
@@ -2732,12 +2896,12 @@
       }, {
          "enabled": true,
          "name": "Native Client",
-         "path": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\App\\Browser\\Chrome\\ppGoogleNaClPluginChrome.dll",
+         "path": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\BrowseSecure\\App\\Browser\\Chrome\\ppGoogleNaClPluginChrome.dll",
          "version": ""
       }, {
          "enabled": true,
          "name": "Chrome PDF Viewer",
-         "path": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\App\\Browser\\Chrome\\pdf.dll",
+         "path": "C:\\Users\\spooky\\Desktop\\BrowseSecure-NONSA\\BrowseSecure\\App\\Browser\\Chrome\\pdf.dll",
          "version": ""
       }, {
          "enabled": true,
