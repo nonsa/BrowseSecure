@@ -8,6 +8,7 @@ Our Goal: Your freedom on the Web.
 2DOS
 * "am i secure right now" Indicator (red/green light ?)
 * putting everything inside a secure conainer (online changeable Password)
+* License information
 
 
 V0.2
