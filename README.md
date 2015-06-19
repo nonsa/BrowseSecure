@@ -15,7 +15,7 @@ V1.0
 		* GHOSTERY: Blockt Website Tracking Scripte wie z.B. Google Analytics
 		* Ad Block Plus: Entfernt Werbung 
 		* Proxy Switchy: Proxy Switcher (Standard: TOR Network)
-		* Added myip.info as startup page (so you see if you have another ip !)
+		* Added myip.info as startup page (so you see if you have another ip !).
 
 V0.2
 * Added some plugins (Mike)
