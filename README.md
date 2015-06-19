@@ -6,11 +6,16 @@ A Secure and untrackable WebBrowser to keep your WEB Activities save from the ey
 Our Goal: Your freedom on the Web. 
 
 2DOS
-* "am i secure right now" Indicator (red/green light ?)
 * putting everything inside a secure conainer (online changeable Password)
 * License information
 
-
+V1.0
+* Updated TOR and chrome (Mike)
+	|	* MaskMe: Ermöglicht es, beim Surfen "anonyme" Emailadressen zu verwenden
+	|	* GHOSTERY: Blockt Website Tracking Scripte wie z.B. Google Analytics
+	|	* Ad Block Plus: Entfernt Werbung 
+	|	* Proxy Switchy: Proxy Switcher (Standard: TOR Network)
+	|	* Added myip.info as startup page (so you see if you have another ip !)
 V0.2
 * Added some plugins (Mike)
 		* MaskMe: Ermöglicht es, beim Surfen "anonyme" Emailadressen zu verwenden
