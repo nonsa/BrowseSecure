@@ -1,13 +1,13 @@
 {
     "description": "Pepper Flash Player", 
     "name": "Flapper", 
-    "version": "11.7.700.203", 
-    "x-flapper-revision": "1185869", 
+    "version": "18.0.0.160", 
+    "x-flapper-revision": "20350", 
     "x-ppapi-arch": "ia32", 
     "x-ppapi-os": "win", 
     "x-ppapi-required-interfaces": [
         "PPB_AudioConfig;1.1|PPB_AudioConfig;1.0", 
-        "PPB_AudioInput(Dev);0.3|PPB_AudioInput(Dev);0.2", 
+        "PPB_AudioInput(Dev);0.4|PPB_AudioInput(Dev);0.3", 
         "PPB_Audio;1.0", 
         "PPB_BrowserFont_Trusted;1.0", 
         "PPB_Buffer(Dev);0.4", 
@@ -42,9 +42,9 @@
         "PPB_URLLoaderTrusted;0.3", 
         "PPB_URLRequestInfo;1.0", 
         "PPB_URLResponseInfo;1.0", 
-        "PPB_URLUtil(Dev);0.6", 
+        "PPB_URLUtil(Dev);0.7|PPB_URLUtil(Dev);0.6", 
         "PPB_Var;1.1|PPB_Var;1.0", 
-        "PPB_VideoCapture(Dev);0.3|PPB_VideoCapture(Dev);0.2", 
+        "PPB_VideoCapture(Dev);0.3", 
         "PPB_View;1.0"
     ]
 }
