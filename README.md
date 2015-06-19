@@ -16,6 +16,7 @@ V1.0
 	|	* Ad Block Plus: Entfernt Werbung 
 	|	* Proxy Switchy: Proxy Switcher (Standard: TOR Network)
 	|	* Added myip.info as startup page (so you see if you have another ip !)
+
 V0.2
 * Added some plugins (Mike)
 		* MaskMe: Ermöglicht es, beim Surfen "anonyme" Emailadressen zu verwenden
