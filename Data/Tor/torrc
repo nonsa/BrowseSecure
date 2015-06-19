@@ -3,9 +3,9 @@
 
 AvoidDiskWrites 1
 ControlPort 9151
-DataDirectory .\Data\Tor
+DataDirectory C:/Users/spooky/Desktop/NoNSA/BrowseSecure/Data/Tor
 DirReqStatistics 0
-ExcludeExitNodes {ru},{ua}
+ExcludeExitNodes {ru},{ua},{??},{a1}
 GeoIPFile ..\Data\Tor\geoip
 Log notice stdout
 SocksListenAddress 127.0.0.1

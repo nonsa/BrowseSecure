@@ -1,3 +1,0 @@
-// Extension for Google Chrome - Click&Clean - Copyright (c) 2013 HOTCLEANER.COM - All Rights Reserved
-var cr=0;isReady();function isReady(){"complete"==document.readyState?init():500==cr?document.location.href=chrome.extension.getURL(page):setTimeout(isReady,100);cr++}
-function init(){var b=document.getElementById("get"),a;0<b.offsetHeight&&(b.style.display="none",b="/clear-browsing-history.html"==location.pathname?"history.html":"/cache-viewer.html"==location.pathname?"cache.html":"/cookie-wiper.html"==location.pathname?"cookies.html":"about:blank",a=document.createElement("iframe"),a.id="frm",a.setAttribute("scrolling","no"),a.setAttribute("frameborder","0"),a.src=chrome.extension.getURL(b),document.getElementById("txt").appendChild(a))};

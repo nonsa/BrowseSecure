@@ -1,0 +1,116 @@
+{
+   "account": {
+      "message": "compte"
+   },
+   "accounts": {
+      "message": "comptes"
+   },
+   "addAccount": {
+      "message": "ajouter un compte sur bugmenot.com"
+   },
+   "alwaysAutoSubmit": {
+      "message": "toujours envoyer le formulaire automatiquement"
+   },
+   "autoFeedbackDelay": {
+      "message": "afficher l'icone de feedback"
+   },
+   "autoFeedbackDelay0s": {
+      "message": "sans délai"
+   },
+   "autoFeedbackDelay10s": {
+      "message": "après 10s"
+   },
+   "autoFeedbackDelay20s": {
+      "message": "après 20s"
+   },
+   "autoFeedbackDelay5s": {
+      "message": "après 5s"
+   },
+   "autoFeedbackDelayAfterSubmit": {
+      "message": "après envoi"
+   },
+   "autoFeedbackDelayNever": {
+      "message": "jamais"
+   },
+   "autoHideDelay": {
+      "message": "cacher automatiquement l'icone"
+   },
+   "autoHideDelay10s": {
+      "message": "après 10s"
+   },
+   "autoHideDelay20s": {
+      "message": "après 20s"
+   },
+   "autoHideDelay5s": {
+      "message": "après 5s"
+   },
+   "autoHideDelayNever": {
+      "message": "jamais"
+   },
+   "autoSubmit": {
+      "message": "envoi auto du formulaire"
+   },
+   "blockedSite": {
+      "message": "site bloqué"
+   },
+   "bugmenot_description": {
+      "message": "Contournez les formulaires de login via www.bugmenot.com."
+   },
+   "bugmenot_name": {
+      "message": "BugMeNot Lite"
+   },
+   "deleteDatabase": {
+      "message": "supprimer les votes de la base de données"
+   },
+   "deleteDatabaseInput": {
+      "message": "supprimer"
+   },
+   "dontStoreVote": {
+      "message": "ne pas enregistrer les votes en base de données"
+   },
+   "manualLogin": {
+      "message": "login manuel"
+   },
+   "maxSize": {
+      "message": "taille maximum de la liste de comptes"
+   },
+   "maxSizeShowAll": {
+      "message": "tout afficher"
+   },
+   "minRating": {
+      "message": "note minimum des comptes"
+   },
+   "neverVoteTwice": {
+      "message": "ne jamais voter deux fois pour un compte"
+   },
+   "no": {
+      "message": "Non"
+   },
+   "noAvailableAccounts": {
+      "message": "pas de compte disponible !"
+   },
+   "noFeedback": {
+      "message": "pas de vote"
+   },
+   "optionsTitle": {
+      "message": "Options de BugMeNot Lite"
+   },
+   "password": {
+      "message": "mot de passe"
+   },
+   "questionPart1": {
+      "message": "Le login"
+   },
+   "questionPart2": {
+      "message": "est valide ?"
+   },
+   "siteNoFeedback": {
+      "message": "pas de vote sur le site"
+   },
+   "tabNoFeedback": {
+      "message": "pas de vote dans l'onglet"
+   },
+   "yes": {
+      "message": "Oui"
+   }
+}

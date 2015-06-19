@@ -1,0 +1,116 @@
+{
+   "account": {
+      "message": "account"
+   },
+   "accounts": {
+      "message": "accounts"
+   },
+   "addAccount": {
+      "message": "add account on bugmenot.com"
+   },
+   "alwaysAutoSubmit": {
+      "message": "always auto-submit form"
+   },
+   "autoFeedbackDelay": {
+      "message": "show feedback icon"
+   },
+   "autoFeedbackDelay0s": {
+      "message": "instantly"
+   },
+   "autoFeedbackDelay10s": {
+      "message": "after 10s"
+   },
+   "autoFeedbackDelay20s": {
+      "message": "after 20s"
+   },
+   "autoFeedbackDelay5s": {
+      "message": "after 5s"
+   },
+   "autoFeedbackDelayAfterSubmit": {
+      "message": "after submit"
+   },
+   "autoFeedbackDelayNever": {
+      "message": "never"
+   },
+   "autoHideDelay": {
+      "message": "auto-hide icon"
+   },
+   "autoHideDelay10s": {
+      "message": "after 10s"
+   },
+   "autoHideDelay20s": {
+      "message": "after 20s"
+   },
+   "autoHideDelay5s": {
+      "message": "after 5s"
+   },
+   "autoHideDelayNever": {
+      "message": "never"
+   },
+   "autoSubmit": {
+      "message": "auto-submit form"
+   },
+   "blockedSite": {
+      "message": "site blocked"
+   },
+   "bugmenot_description": {
+      "message": "Bypass compulsory web registration via www.bugmenot.com."
+   },
+   "bugmenot_name": {
+      "message": "BugMeNot Lite"
+   },
+   "deleteDatabase": {
+      "message": "delete votes from local database"
+   },
+   "deleteDatabaseInput": {
+      "message": "delete"
+   },
+   "dontStoreVote": {
+      "message": "don't store votes into local database"
+   },
+   "manualLogin": {
+      "message": "manual login"
+   },
+   "maxSize": {
+      "message": "maximum account list size"
+   },
+   "maxSizeShowAll": {
+      "message": "show all"
+   },
+   "minRating": {
+      "message": "minimum account rating"
+   },
+   "neverVoteTwice": {
+      "message": "never vote twice for an account"
+   },
+   "no": {
+      "message": "No"
+   },
+   "noAvailableAccounts": {
+      "message": "no accounts available !"
+   },
+   "noFeedback": {
+      "message": "no feedback"
+   },
+   "optionsTitle": {
+      "message": "BugMeNot Lite Options"
+   },
+   "password": {
+      "message": "password"
+   },
+   "questionPart1": {
+      "message": "Did"
+   },
+   "questionPart2": {
+      "message": "work out for you ?"
+   },
+   "siteNoFeedback": {
+      "message": "no feedback for this site"
+   },
+   "tabNoFeedback": {
+      "message": "no feedback in this tab"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

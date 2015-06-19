@@ -1,0 +1,27 @@
+{
+   "background": {
+      "scripts": [ "accountStorage.js", "config.js", "options.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_bugmenot_description__",
+   "icons": {
+      "128": "icon_128.png",
+      "48": "icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC71Wc6E8Uh4CQEt9JVGRNUNjDF/KUjPWy8LBTMzUAdrb48/8E1JghR58GtBfMMeYcT2vMmtTOtIhl7Sb1p1Guj2mA8Wb2BuSdtQocqcazjqM6yNj09rUU7qqvnSREn28f5lxM6Ir9dbygJGsKfRus48w/8IFDU43j0r8Z3ahHW3wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_bugmenot_name__",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "icon_48.png"
+   },
+   "permissions": [ "tabs", "http://www.bugmenot.com/" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.3.10"
+}
